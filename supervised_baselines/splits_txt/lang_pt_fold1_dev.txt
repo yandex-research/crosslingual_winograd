@@ -1,0 +1,135 @@
+A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório , mas havia muitas [MASK] .
+[MASK]
+newsletter,cadeiras
+cadeiras
+
+Eu vi o Guilherme gritando com um cara que vestia uma farda e tinha uma grande barba ruiva . Eu não sei quem [MASK] era , mas ele parecia muito chateado .
+[MASK]
+cara que vestia uma farda,Guilherme
+cara que vestia uma farda
+
+André passou o gameboy para João porque [MASK] vez tinha acabado .
+[MASK]
+João,André
+André
+
+O sapo comeu o mosquito . [MASK] estava com fome
+[MASK]
+sapo,mosquito
+sapo
+
+Os jornalistas entrevistaram os astros do novo filme . [MASK] foram muito cooperativos , então a entrevista se estendeu por muito tempo .
+[MASK]
+jornalistas,astros
+astros
+
+Samuel teve aulas de francês com o Antonio , porque [MASK] estava ansioso para falar fluentemente .
+[MASK]
+Samuel,Antonio
+Samuel
+
+Marcos contou muitas mentiras sobre ele mesmo para o Pedro , e Pedro incluiu elas no seu livro . [MASK] deveria ter sido mais sincero .
+[MASK]
+Pedro,Marcos
+Marcos
+
+Vanessa sabe tudo sobre os problemas pessoais da Adriana porque [MASK] é intrometida .
+[MASK]
+Vanessa,Adriana
+Vanessa
+
+Como estava chovendo , eu carreguei a revista sobre a minha mochila para manter [MASK] seca .
+[MASK]
+revista,mochila
+mochila
+
+Pedro tem inveja de Marcelo porque [MASK] é muito bem sucedido .
+[MASK]
+Marcelo,Pedro
+Marcelo
+
+O advogado fez uma pergunta ao acusado , mas [MASK] estava relutante em respondê-la .
+[MASK]
+advogado,acusado
+acusado
+
+Durante a tempestade , o poste caiu e atravessou o telhado da minha casa . Agora , eu tenho que mandar consertar [MASK] .
+[MASK]
+telhado,poste
+telhado
+
+O quadro na sala de estar do Marcos mostra um carvalho . [MASK] está à direita da casa .
+[MASK]
+quadro,carvalho
+carvalho
+
+As universidades estão estudando três espécies de peixe que recentemente foram encontradas vivendo no Oceano Índico . [MASK] começaram dois anos atrás .
+[MASK]
+universidades,espécies de peixe
+universidades
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela escreve [MASK] quando chega do trabalho .
+[MASK]
+livro,artigo
+artigo
+
+Daniel fez André parar de brincar com o pássaro machucado . [MASK] é muito compassivo .
+[MASK]
+Daniel,André
+Daniel
+
+Daniel ficou no banco de trás enquanto que André ganhou a frente porque [MASK] `` Eu primeiro ! '' foi mais rápido .
+[MASK]
+Daniel,André
+André
+
+Gabriela deu doces para Jéssica porque [MASK] não estava com fome .
+[MASK]
+Gabriela,Jéssica
+Gabriela
+
+Samuel tentou pintar um quadro de pastoras com ovelhas , mas [MASK] acabaram ficando mais parecidas com cachorros .
+[MASK]
+pastoras,ovelhas
+ovelhas
+
+Na competição Loebner os juízes não conseguiam descobrir quais participantes eram os chatbots porque [MASK] eram muito avançados .
+[MASK]
+chatbots,juízes
+chatbots
+
+Felipe estava chateado com o Vinícius porque a torradeira que [MASK] havia comprado dele não funcionava .
+[MASK]
+Vinícius,Felipe
+Felipe
+
+Como estava chovendo , eu carreguei a revista na minha mochila para manter [MASK] seca .
+[MASK]
+revista,mochila
+revista
+
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que [MASK] enfrentou em sua pesquisa .
+[MASK]
+Xenophanes,Goodman
+Goodman
+
+Eu pus uma mochila pesada sobre a mesa e [MASK] se quebrou .
+[MASK]
+mesa,mochila pesada
+mesa
+
+Nesta manhã , José construiu um castelo de areia na praia , e colocou um soldado de brinquedo na torre mais alta , mas nesta tarde o vento derrubou [MASK] .
+[MASK]
+castelo de areia,soldado
+soldado
+
+Quando os apoiadores do projeto de lei chegaram à prefeitura , foram surpreendidos ao encontrarem a sala repleta de opositores . [MASK] estavam em vasta minoria .
+[MASK]
+apoiadores,opositores
+apoiadores
+
+João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando . [MASK] ficou muito incomodado .
+[MASK]
+homem,João
+João
+

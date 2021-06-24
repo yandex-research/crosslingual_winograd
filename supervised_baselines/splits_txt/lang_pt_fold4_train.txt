@@ -1,0 +1,1045 @@
+Beatriz conversou com Daniela , quebrando [MASK] promessa .
+[MASK]
+Daniela,Beatriz
+Beatriz
+
+Dra . Larissa informou a Sofia que [MASK] tinha se aposentado e apresentou diversas opções para continuidade no seu tratamento .
+[MASK]
+Dra. Larissa,Sofia
+Dra. Larissa
+
+Eu enfiei uma agulha através de uma cenoura . Quando eu removi a agulha , [MASK] deixou um buraco .
+[MASK]
+cenoura,agulha
+agulha
+
+Gustavo pediu um favor ao Roberto mas [MASK] se recusou a atender o favor .
+[MASK]
+Roberto,Gustavo
+Roberto
+
+Aline tentou incansavelmente impedir sua filha de latir na festa . Ficamos nos questionando porque [MASK] estava se comportando de maneira tão estranha .
+[MASK]
+Aline,filha
+filha
+
+Felipe estava chateado com o Vinícius porque a torradeira que [MASK] havia vendido para ele não funcionava
+[MASK]
+Vinícius,Felipe
+Vinícius
+
+Eu servi o refrigerante no copo até que [MASK] ficasse cheio .
+[MASK]
+refrigerante,copo
+copo
+
+João não conseguia enxergar o palco com Arthur na sua frente porque [MASK] é muito alto .
+[MASK]
+Arthur,João
+Arthur
+
+Gabriela bateu à porta de Vanessa , mas ninguém respondeu . [MASK] tinha saído .
+[MASK]
+Gabriela,Vanessa
+Vanessa
+
+O tio do Jorge ainda consegue derrotar ele no tênis , apesar de [MASK] ser 30 anos mais velho .
+[MASK]
+tio do Jorge,Jorge
+tio do Jorge
+
+Guilherme fez um sinal para o barman e apontou para [MASK] chave do banheiro .
+[MASK]
+Guilherme,barman
+barman
+
+Madonna demitiu sua treinadora porque ela não suportava o namorado [MASK] .
+[MASK]
+treinadora,Madonna
+treinadora
+
+O gato estava deitado próximo ao buraco esperando pelo rato , mas [MASK] estava muito impaciente .
+[MASK]
+rato,gato
+gato
+
+Bruno custeou o ensino superior de Fabio , mas agora Fabio age como se isso nunca tivesse acontecido . [MASK] está muito magoado .
+[MASK]
+Bruno,Fabio
+Bruno
+
+O tio do Jorge ainda consegue derrotar ele no tênis , apesar de [MASK] ser 30 anos mais jovem .
+[MASK]
+tio do Jorge,Jorge
+Jorge
+
+Felipe sentiu-se fracassado quando seu rival de longa data André revelou que [MASK] era o vencedor da competição .
+[MASK]
+André,Felipe
+André
+
+Eu pus uma mochila pesada sobre a mesa e [MASK] se quebrou .
+[MASK]
+mochila pesada,mesa
+mesa
+
+O ralo está entupido com cabelo . [MASK] tem que ser limpado .
+[MASK]
+ralo,cabelo
+ralo
+
+Samuel tentou pintar um quadro de pastoras com ovelhas , mas [MASK] acabaram ficando mais parecidas com cachorros .
+[MASK]
+pastoras,ovelhas
+ovelhas
+
+Marcos contou muitas mentiras sobre ele mesmo para o Pedro , e Pedro incluiu elas no seu livro . [MASK] deveria ter sido mais sincero .
+[MASK]
+Marcos,Pedro
+Marcos
+
+Aline procurou por sua amiga Flavia na multidão . Dado que [MASK] sempre usa um turbante vermelho , Aline a encontrou rapidamente .
+[MASK]
+Aline,Flavia
+Flavia
+
+Ana foi muito melhor do que sua amiga Luciana na prova porque [MASK] tinha estudado muito .
+[MASK]
+Ana,Luciana
+Ana
+
+As universidades estão estudando três espécies de peixe que recentemente foram encontradas vivendo no Oceano Índico . [MASK] começaram dois anos atrás .
+[MASK]
+espécies de peixe,universidades
+universidades
+
+Eu estava tentando abrir o cadeado com a chave , mas alguém havia preenchido a fechadura com goma de mascar , e eu não conseguia inserir [MASK] .
+[MASK]
+chave,goma de mascar
+chave
+
+As raposas estão entrando à noite e atacando as galinhas . [MASK] se tornaram muito ousadas .
+[MASK]
+galinhas,raposas
+raposas
+
+As raposas estão entrando à noite e atacando as galinhas . [MASK] se tornaram muito nervosas .
+[MASK]
+galinhas,raposas
+galinhas
+
+Os alunos mais velhos estavam fazendo bullying com os mais jovens , então nós punimos [MASK] .
+[MASK]
+mais jovens,alunos mais velhos
+alunos mais velhos
+
+Meu compromisso começava às 4:00 e eu precisava pegar o trem às 4:30 , portanto não havia muito tempo . Felizmente , [MASK] foi breve , então tudo deu certo .
+[MASK]
+Meu compromisso,trem
+Meu compromisso
+
+Francisco assistiu TV enquanto Gabriel saiu para fazer as compras . Depois de uma hora [MASK] levantou .
+[MASK]
+Gabriel,Francisco
+Francisco
+
+Eu estava tentando abrir o cadeado com a chave , mas alguém havia preenchido a fechadura com goma de mascar , e eu não conseguia remover [MASK] .
+[MASK]
+goma de mascar,chave
+goma de mascar
+
+Paulo tentou ligar para o Gabriel , mas [MASK] não foi bem sucedido .
+[MASK]
+Gabriel,Paulo
+Paulo
+
+Francisco é a única pessoa que ainda lembra do meu bisavô . [MASK] era um homem memorável .
+[MASK]
+meu bisavô,Francisco
+meu bisavô
+
+Quando os apoiadores do projeto de lei chegaram à prefeitura , foram surpreendidos ao encontrarem a sala repleta de opositores . [MASK] estavam em vasta minoria .
+[MASK]
+opositores,apoiadores
+apoiadores
+
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que [MASK] enfrentou em sua infância .
+[MASK]
+Xenophanes,Goodman
+Xenophanes
+
+Jorge pagou o detetive após [MASK] ter entregado o relatório final sobre o caso .
+[MASK]
+Jorge,detetive
+detetive
+
+As universidades estão estudando três espécies de peixe que recentemente foram encontradas vivendo no Oceano Índico . [MASK] apareceram dois anos atrás .
+[MASK]
+espécies de peixe,universidades
+espécies de peixe
+
+A medalha não cabe na maleta porque [MASK] é muito grande .
+[MASK]
+maleta,medalha
+medalha
+
+Gabriela bateu à porta de Vanessa mas [MASK] não foi atendida .
+[MASK]
+Gabriela,Vanessa
+Gabriela
+
+O homem não conseguia erguer seu filho porque [MASK] era muito fraco .
+[MASK]
+filho,homem
+homem
+
+A mulher estava segurando a menina contra [MASK] peito .
+[MASK]
+mulher,menina
+mulher
+
+Eu pus a torta na geladeira . [MASK] tem muitas sobras de comida .
+[MASK]
+torta,geladeira
+geladeira
+
+Apesar de ambas correrem aproximadamente na mesma velocidade , Sandra derrotou Marcia porque [MASK] começou muito mal .
+[MASK]
+Marcia,Sandra
+Marcia
+
+Como estava chovendo , eu carreguei a revista sobre a minha mochila para manter [MASK] seca .
+[MASK]
+revista,mochila
+mochila
+
+Durante a apresentação a céu aberto , começou a chover , e [MASK] continuou até às 10 .
+[MASK]
+chover,apresentação
+chover
+
+Arthur chorou porque Sebastião não queria aceitar [MASK] brinquedo .
+[MASK]
+Sebastião,Arthur
+Arthur
+
+A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório , mas não havia o suficiente [MASK] .
+[MASK]
+newsletter,cadeiras
+newsletter
+
+Eu vi o Guilherme gritando com um cara que vestia uma farda e tinha uma grande barba ruiva . Eu não sei porque [MASK] estava assim , mas ele parecia muito chateado .
+[MASK]
+cara que vestia uma farda,Guilherme
+Guilherme
+
+Na competição Loebner os juízes não conseguiam descobrir quais participantes eram os chatbots porque [MASK] eram muito estúpidos .
+[MASK]
+juízes,chatbots
+juízes
+
+Samuel tentou pintar um quadro de pastoras com ovelhas , mas [MASK] acabaram ficando mais parecidas com golfistas .
+[MASK]
+ovelhas,pastoras
+pastoras
+
+Apesar de ambas correrem aproximadamente na mesma velocidade , Sandra derrotou Marcia porque [MASK] começou muito bem .
+[MASK]
+Sandra,Marcia
+Sandra
+
+A escultura caiu da prateleira porque [MASK] não estava bem acomodada .
+[MASK]
+prateleira,escultura
+escultura
+
+Francisco deveria ter ligado a máquina de lavar louça , mas ele adiou , porque queria assistir TV . Por fim o programa estava chato , então ele mudou de ideia e desligou [MASK] .
+[MASK]
+TV,máquina de lavar
+TV
+
+Nós fomos para a lagoa , porque um tubarão havia sido avistado na praia , então [MASK] era um lugar mais seguro para nadar .
+[MASK]
+praia,lagoa
+lagoa
+
+Felipe sentiu-se vingado quando seu rival de longa data André revelou que [MASK] era o vencedor da competição .
+[MASK]
+Felipe,André
+Felipe
+
+Bruno estava jogando cartas com Antonio e estava muito na frente no placar . Se Antonio não tivesse tido uma sequência de jogadas de sorte , [MASK] teria ganhado .
+[MASK]
+Antonio,Bruno
+Bruno
+
+Enquanto Mateus carregava Vitor subindo a longa escada em espiral , [MASK] pernas balançavam .
+[MASK]
+Vitor,Mateus
+Vitor
+
+Quando Vitor derrubou seu sorvete , Tiago gargalhou , então seu pai olhou [MASK] com olhar severo .
+[MASK]
+Vitor,Tiago
+Tiago
+
+Bruno custeou o ensino superior de Fabio . [MASK] é muito grato .
+[MASK]
+Fabio,Bruno
+Fabio
+
+Bruno colapsou na calçada . Logo ele viu Carlos vindo acudi-lo . [MASK] estava muito preocupado .
+[MASK]
+Bruno,Carlos
+Carlos
+
+Os alunos mais velhos estavam fazendo bullying com os mais jovens , então nós protegemos [MASK] .
+[MASK]
+mais jovens,alunos mais velhos
+mais jovens
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela lê [MASK] quando chega do trabalho .
+[MASK]
+artigo,livro
+livro
+
+Samuel quebrou ambas as pernas e agora ele está andando com muletas . Mas em aproximadamente um mês [MASK] devem não ser mais necessárias .
+[MASK]
+muletas,pernas
+muletas
+
+Rodrigo segue o exemplo do Francisco em tudo . [MASK] o influencia imensamente .
+[MASK]
+Rodrigo,Francisco
+Francisco
+
+Rodrigo segue o exemplo do Francisco em tudo . [MASK] o admira imensamente .
+[MASK]
+Rodrigo,Francisco
+Rodrigo
+
+Eu pus a asa de borboleta sobre a mesa e [MASK] se quebrou .
+[MASK]
+mesa,asa de borboleta
+asa de borboleta
+
+Jackson sofreu forte influência de Arnold , mesmo [MASK] tendo vivido dois séculos antes .
+[MASK]
+Arnold,Jackson
+Arnold
+
+Madonna demitiu sua treinadora porque [MASK] não suportava o namorado dela .
+[MASK]
+treinadora,Madonna
+Madonna
+
+Eduarda estava muito feliz em trocar sua blusa por minha jaqueta . Ela acha que [MASK] fica muito bem nela .
+[MASK]
+jaqueta,blusa
+jaqueta
+
+Adriana perguntou a Maria a que horas a biblioteca fechava , porque [MASK] tinha esquecido .
+[MASK]
+Maria,Adriana
+Adriana
+
+Aline tentou incansavelmente impedir sua filha de conversar na festa . Ficamos nos questionando porque [MASK] estava se comportando de maneira tão estranha .
+[MASK]
+Aline,filha
+Aline
+
+Bruno custeou o ensino superior de Fabio . [MASK] é muito generoso .
+[MASK]
+Fabio,Bruno
+Bruno
+
+Os policiais prenderam todos os membros da gangue . [MASK] estavam tentando fazer tráfico de drogas na vizinhança .
+[MASK]
+membros da gangue,policiais
+membros da gangue
+
+Antonio não pode sair do trabalho até que Bruno chegue para substituir ele . Se Bruno tivesse saído de casa na hora certa , [MASK] já estaria aqui agora .
+[MASK]
+Antonio,Bruno
+Bruno
+
+Enquanto Francisca passava sobre Vanessa no pequeno avião , [MASK] podia ver a pista de aterrissagem .
+[MASK]
+Francisca,Vanessa
+Francisca
+
+Os vereadores recusaram a autorização aos manifestantes porque [MASK] temiam a violência .
+[MASK]
+manifestantes,vereadores
+vereadores
+
+Eu usei um pano velho para limpar o alicate , e então joguei [MASK] no lixo .
+[MASK]
+pano,alicate
+pano
+
+As raposas estão entrando à noite e atacando as galinhas . Eu terei que proteger [MASK] .
+[MASK]
+raposas,galinhas
+galinhas
+
+Jackson sofreu forte influência de Arnold , mesmo [MASK] tendo vivido dois séculos mais tarde .
+[MASK]
+Jackson,Arnold
+Jackson
+
+Nesta manhã , José construiu um castelo de areia na praia , e colocou um soldado de brinquedo na torre mais alta , mas nesta tarde a maré derrubou [MASK] .
+[MASK]
+soldado,castelo de areia
+castelo de areia
+
+O sapo comeu o mosquito . [MASK] estava saboroso .
+[MASK]
+mosquito,sapo
+mosquito
+
+O nome da atriz costumava ser Terpsichore , mas ela o mudou para Tina há alguns anos , porque percebeu que [MASK] era muito difícil de pronunciar .
+[MASK]
+Tina,Terpsichore
+Terpsichore
+
+Eu servi o refrigerante no copo até que [MASK] ficasse vazio .
+[MASK]
+refrigerante,copo
+refrigerante
+
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e [MASK] de fato ficava muito melhor com outro acima dele .
+[MASK]
+desenho do Samuel,da Tina
+da Tina
+
+Durante a apresentação a céu aberto , começou a chover , mas [MASK] continuou até às 10 .
+[MASK]
+apresentação,chover
+apresentação
+
+Maria pegou sua flauta e tocou uma de suas peças favoritas . Ela ama [MASK] desde criança .
+[MASK]
+flauta,peças
+peças
+
+A medalha não cabe na maleta porque [MASK] é muito pequena .
+[MASK]
+maleta,medalha
+maleta
+
+Kirilov cedeu a presidência a Shatov porque [MASK] era mais popular .
+[MASK]
+Kirilov,Shatov
+Shatov
+
+Eu enfiei uma agulha através de uma cenoura . Quando eu removi a agulha , [MASK] tinha um buraco .
+[MASK]
+cenoura,agulha
+cenoura
+
+Eu retirei a garrafa d'água da mochila para que [MASK] ficasse acessível .
+[MASK]
+mochila,garrafa d'água
+garrafa d'água
+
+André passou o prato pela metade para João porque [MASK] estava com fome .
+[MASK]
+João,André
+João
+
+Em julho , Kamtchatka declarou guerra contra Yakutsk . Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior , [MASK] foram vitoriosos em semanas .
+[MASK]
+Kamtchatka,Yakutsk
+Yakutsk
+
+O caminhão de entregas passou rapidamente pelo ônibus escolar porque [MASK] estava indo muito devagar .
+[MASK]
+ônibus escolar,caminhão de entregas
+ônibus escolar
+
+João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias . [MASK] era muito impressionante .
+[MASK]
+João,homem fazendo malabarismos
+homem fazendo malabarismos
+
+Durante a tempestade , o poste caiu e atravessou o telhado da minha casa . Agora , eu tenho que mandar consertar [MASK] .
+[MASK]
+telhado,poste
+telhado
+
+Francisco e Aline tinham casacos muito quentes , mas [MASK] não eram suficientes para o frio do Alasca .
+[MASK]
+Francisco e Aline,casacos
+casacos
+
+Gabriel conseguiu ingressos de graça para a peça , mas ele os deu para Manoel , mesmo [MASK] estando particularmente interessado em assistir ela .
+[MASK]
+Gabriel,Manoel
+Gabriel
+
+André passou o gameboy para João porque [MASK] vez era a próxima .
+[MASK]
+André,João
+João
+
+Bruna não ficou brava com Marcia , que havia a deixado de fora , porque [MASK] parou e pediu desculpas .
+[MASK]
+Marcia,Bruna
+Marcia
+
+Ana foi muito pior do que sua amiga Luciana na prova porque [MASK] tinha estudado muito .
+[MASK]
+Ana,Luciana
+Luciana
+
+O quadro na sala de estar do Marcos mostra um carvalho . [MASK] está à direita da estante de livros .
+[MASK]
+quadro,carvalho
+quadro
+
+Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro , porque [MASK] contou pra ela a respeito .
+[MASK]
+Vanessa,Adriana
+Adriana
+
+O gato estava deitado próximo ao buraco esperando pelo rato , mas [MASK] era muito cauteloso
+[MASK]
+rato,gato
+rato
+
+Maria acomodou sua filha Amanda na cama , para que [MASK] pudesse trabalhar .
+[MASK]
+filha,Maria
+Maria
+
+A grande bola atravessou a mesa pois [MASK] era feita de isopor .
+[MASK]
+mesa,grande bola
+mesa
+
+Gabriel conseguiu ingressos de graça para a peça , mas ele os deu para Manoel , porque [MASK] não estava particularmente interessado em assistir ela .
+[MASK]
+Manoel,Gabriel
+Gabriel
+
+Eu tentei fazer uma pintura de um pomar , com limões nos limoeiros , mas [MASK] acabaram parecendo mais telefones públicos .
+[MASK]
+limoeiros,limões
+limoeiros
+
+A mãe da Fernanda havia morrido fazia muitos anos , e a casa [MASK] estava sendo cuidada por uma excelente governanta .
+[MASK]
+Fernanda,mãe da Fernanda
+mãe da Fernanda
+
+A escultura caiu da prateleira porque [MASK] não estava bem nivelada .
+[MASK]
+prateleira,escultura
+prateleira
+
+Jéssica certificou-se de agradecer Vanessa por toda ajuda que [MASK] havia oferecido .
+[MASK]
+Jéssica,Vanessa
+Vanessa
+
+Tenho certeza que meu mapa vai mostrar esse prédio ; [MASK] é muito famoso .
+[MASK]
+prédio,mapa
+prédio
+
+Olhe ! Há um tubarão nadando bem debaixo daquele pato ! É melhor [MASK] fugir para um lugar seguro rápido !
+[MASK]
+tubarão,pato
+pato
+
+Jéssica certificou-se de agradecer Vanessa por toda ajuda que [MASK] havia recebido .
+[MASK]
+Jéssica,Vanessa
+Jéssica
+
+Francisco assistiu TV enquanto Gabriel saiu para fazer as compras . Depois de uma hora [MASK] voltou .
+[MASK]
+Francisco,Gabriel
+Gabriel
+
+Vanessa sabe tudo sobre os problemas pessoais da Adriana porque [MASK] é intrometida .
+[MASK]
+Vanessa,Adriana
+Vanessa
+
+Eduarda estava muito feliz em trocar sua blusa por minha jaqueta . Ela acha que [MASK] fica deselegante nela .
+[MASK]
+jaqueta,blusa
+blusa
+
+João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando . [MASK] ficou muito incomodado .
+[MASK]
+João,homem
+João
+
+Kirilov cedeu a presidência a Shatov porque [MASK] era menos popular .
+[MASK]
+Shatov,Kirilov
+Kirilov
+
+Guilherme acalmou Luiz porque [MASK] estava muito transtornado .
+[MASK]
+Luiz,Guilherme
+Luiz
+
+Samuel teve aulas de francês com o Antonio , porque [MASK] estava ansioso para falar fluentemente .
+[MASK]
+Antonio,Samuel
+Samuel
+
+Os jornalistas entrevistaram os astros do novo filme . [MASK] foram muito cooperativos , então a entrevista se estendeu por muito tempo .
+[MASK]
+astros,jornalistas
+astros
+
+Maria acomodou sua filha Amanda na cama , para que [MASK] pudesse dormir .
+[MASK]
+Maria,filha
+filha
+
+Samuel e Camila estão extremamente apaixonados , mas os pais da Camila estão incomodados com isso porque [MASK] são esnobes .
+[MASK]
+pais da Camila,Samuel e Camila
+pais da Camila
+
+Gabriela bateu à porta , e Vanessa atendeu . [MASK] convidou-a para sair .
+[MASK]
+Vanessa,Gabriela
+Gabriela
+
+Vinícius disse `` Check `` para Rafael enquanto ele movia [MASK] bispo .
+[MASK]
+Vinícius,Rafael
+Vinícius
+
+Gabriela deu doces para Jéssica porque [MASK] estava com fome .
+[MASK]
+Gabriela,Jéssica
+Jéssica
+
+Daniel ficou no banco de trás enquanto que André ganhou a frente porque [MASK] `` Eu primeiro ! '' foi mais rápido .
+[MASK]
+André,Daniel
+André
+
+Fernando visitou o túmulo de Leonardo em 1765 . Naquela data fazia cinco anos que [MASK] estava morto .
+[MASK]
+Fernando,Leonardo
+Leonardo
+
+O homem levantou o menino sobre [MASK] cabeça .
+[MASK]
+homem,menino
+homem
+
+Daniel fez André parar de brincar com o pássaro machucado . [MASK] é muito compassivo .
+[MASK]
+André,Daniel
+Daniel
+
+Se o golpista tivesse sido bem sucedido em enganar o Samuel , [MASK] teria perdido muito dinheiro .
+[MASK]
+Samuel,golpista
+Samuel
+
+Felipe estava chateado com o Vinícius porque a torradeira que [MASK] havia comprado dele não funcionava .
+[MASK]
+Vinícius,Felipe
+Felipe
+
+Eu não consigo cortar aquela árvore com essa serra ; [MASK] é muito pequena .
+[MASK]
+serra,árvore
+serra
+
+O ralo está entupido com cabelo . [MASK] tem que ser removido .
+[MASK]
+ralo,cabelo
+cabelo
+
+O caminhão de entregas passou rapidamente pelo ônibus escolar porque [MASK] estava indo muito depressa .
+[MASK]
+caminhão de entregas,ônibus escolar
+caminhão de entregas
+
+A grande bola atravessou a mesa pois [MASK] era feita de aço .
+[MASK]
+mesa,grande bola
+grande bola
+
+O cliente entrou no banco e esfaqueou um dos caixas . [MASK] foi levado imediatamente para a delegacia .
+[MASK]
+cliente,caixas
+cliente
+
+Bruna não ficou brava com Marcia , que havia a deixado de fora , porque [MASK] parou e contou até dez .
+[MASK]
+Marcia,Bruna
+Bruna
+
+Vinícius disse `` Check `` para Rafael enquanto ele tomava [MASK] bispo .
+[MASK]
+Rafael,Vinícius
+Rafael
+
+Este livro introduziu Shakespeare a Goethe ; ele foi uma grande influência em [MASK] escrita .
+[MASK]
+Shakespeare,Goethe
+Goethe
+
+Na competição Loebner os juízes não conseguiam descobrir quais participantes eram os chatbots porque [MASK] eram muito avançados .
+[MASK]
+chatbots,juízes
+chatbots
+
+O cão perseguiu o gato , que correu até a árvore . [MASK] esperou embaixo .
+[MASK]
+gato,cão
+cão
+
+O homem não conseguia erguer seu filho porque [MASK] era muito pesado .
+[MASK]
+filho,homem
+filho
+
+João ordenou a André que fosse embora , então uma hora mais tarde [MASK] partiu .
+[MASK]
+João,André
+André
+
+Fernanda não passou a bola para Juliana apesar de [MASK] estar livre .
+[MASK]
+Juliana,Fernanda
+Juliana
+
+Pedro tem inveja de Marcelo porque [MASK] é muito bem sucedido .
+[MASK]
+Pedro,Marcelo
+Marcelo
+
+Vinícius deu uma carona até a escola para Rafael , assim [MASK] não teve que dirigir sozinho .
+[MASK]
+Vinícius,Rafael
+Vinícius
+
+Durante a tempestade , o poste caiu e atravessou o telhado da minha casa . Agora , eu tenho que mandar remover [MASK] .
+[MASK]
+telhado,poste
+poste
+
+Gabriela bateu à porta de Vanessa , mas ninguém respondeu . [MASK] ficou desapontada .
+[MASK]
+Gabriela,Vanessa
+Gabriela
+
+Antonio não pode sair do trabalho até que Bruno chegue para substituir ele . Se Bruno tivesse saído de casa na hora certa , [MASK] já teria saído agora .
+[MASK]
+Bruno,Antonio
+Antonio
+
+Arthur chorou porque Sebastião não queria compartilhar [MASK] brinquedo .
+[MASK]
+Sebastião,Arthur
+Sebastião
+
+O cão perseguiu o gato , que correu até a árvore . [MASK] esperou em cima .
+[MASK]
+cão,gato
+gato
+
+Guilherme gritou com Luiz porque [MASK] estava muito transtornado .
+[MASK]
+Guilherme,Luiz
+Guilherme
+
+Francisco é a única pessoa que ainda lembra do meu bisavô . [MASK] é um homem memorável .
+[MASK]
+meu bisavô,Francisco
+Francisco
+
+Gabriela bateu à porta , e Vanessa atendeu . [MASK] convidou-a para entrar .
+[MASK]
+Vanessa,Gabriela
+Vanessa
+
+Vinícius jogou sua mochila lá embaixo para o Raimundo depois que [MASK] atingiu a parte inferior da escada .
+[MASK]
+Vinícius,Raimundo
+Raimundo
+
+O sapo comeu o mosquito . [MASK] estava com fome
+[MASK]
+sapo,mosquito
+sapo
+
+João foi contratado por André para cuidar [MASK] .
+[MASK]
+João,André
+André
+
+Os policiais prenderam todos os membros da gangue . [MASK] estavam tentando acabar com o tráfico de drogas na vizinhança .
+[MASK]
+policiais,membros da gangue
+policiais
+
+Vinícius deu uma carona até a escola para Rafael , assim [MASK] não teve que caminhar .
+[MASK]
+Vinícius,Rafael
+Rafael
+
+Daniel fez André parar de brincar com o pássaro machucado . [MASK] é muito cruel .
+[MASK]
+André,Daniel
+André
+
+Samuel e Camila estão extremamente apaixonados , mas os pais da Camila estão incomodados com isso porque [MASK] têm quinze anos .
+[MASK]
+pais da Camila,Samuel e Camila
+Samuel e Camila
+
+Madonna demitiu sua treinadora porque [MASK] dormiu com o namorado dela .
+[MASK]
+treinadora,Madonna
+treinadora
+
+Aline procurou por sua amiga Flavia na multidão . Dado que [MASK] sempre tem muita sorte , Aline a encontrou rapidamente .
+[MASK]
+Flavia,Aline
+Aline
+
+Os vereadores recusaram a autorização aos manifestantes porque [MASK] eram favoráveis à violência .
+[MASK]
+manifestantes,vereadores
+manifestantes
+
+Os jornalistas entrevistaram os astros do novo filme . [MASK] foram muito persistentes , então a entrevista se estendeu por muito tempo .
+[MASK]
+astros,jornalistas
+jornalistas
+
+Pedro tem inveja de Marcelo apesar de [MASK] ser muito bem sucedido .
+[MASK]
+Pedro,Marcelo
+Pedro
+
+Dra . Larissa informou a Sofia que [MASK] tinha câncer e apresentou diversas opções para continuidade no seu tratamento .
+[MASK]
+Dra. Larissa,Sofia
+Sofia
+
+Adriana perguntou a Maria a que horas a biblioteca fechava , mas [MASK] tinha esquecido .
+[MASK]
+Maria,Adriana
+Maria
+
+O advogado fez uma pergunta ao acusado , mas [MASK] estava relutante em respondê-la .
+[MASK]
+advogado,acusado
+acusado
+
+A luz do sol estava impedida por uma grande nuvem a manhã toda , mas por sorte , na hora em que o piquenique começou , [MASK] foi embora .
+[MASK]
+nuvem,luz do sol
+nuvem
+
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e [MASK] de fato ficava muito melhor com outro abaixo dele .
+[MASK]
+da Tina,desenho do Samuel
+desenho do Samuel
+
+Muitas pessoas começam a ler as crônicas do Paulo e não conseguem largar elas . [MASK] são populares porque o Paulo escreve muito bem .
+[MASK]
+crônicas do Paulo,pessoas
+crônicas do Paulo
+
+Se o golpista tivesse sido bem sucedido em enganar o Samuel , [MASK] teria ganhado muito dinheiro .
+[MASK]
+Samuel,golpista
+golpista
+
+João prometeu a André que iria embora , então uma hora mais tarde [MASK] partiu .
+[MASK]
+João,André
+João
+
+A mulher estava segurando a menina contra [MASK] desejo .
+[MASK]
+mulher,menina
+menina
+
+Ricardo explicou sua teoria para o Marcos mas [MASK] não conseguiu compreendê-la .
+[MASK]
+Marcos,Ricardo
+Marcos
+
+O nome da atriz costumava ser Terpsichore , mas ela o mudou para Tina há alguns anos , porque percebeu que [MASK] era mais fácil de pronunciar .
+[MASK]
+Terpsichore,Tina
+Tina
+
+Bruno estava jogando cartas com Antonio e estava muito na frente no placar . Se Antonio não tivesse tido uma sequência de jogadas de sorte , [MASK] teria perdido .
+[MASK]
+Antonio,Bruno
+Antonio
+
+Marcos contou muitas mentiras sobre ele mesmo para o Pedro , e Pedro incluiu elas no seu livro . [MASK] deveria ter sido mais cético .
+[MASK]
+Marcos,Pedro
+Pedro
+
+A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório , mas havia muitas [MASK] .
+[MASK]
+cadeiras,newsletter
+cadeiras
+
+Beatriz conversou com Daniela , tirando [MASK] concentração .
+[MASK]
+Beatriz,Daniela
+Daniela
+
+Olhe ! Há um peixinho nadando bem debaixo daquele pato ! É melhor [MASK] fugir para um lugar seguro rápido !
+[MASK]
+peixinho,pato
+peixinho
+
+Eu não consigo cortar aquela árvore com essa serra ; [MASK] é muito grossa .
+[MASK]
+serra,árvore
+árvore
+
+Vanessa sabe tudo sobre os problemas pessoais da Adriana porque [MASK] é indiscreta .
+[MASK]
+Adriana,Vanessa
+Adriana
+
+Durante um jogo de pega-pega , Eduardo fugiu do Lucas porque `` estava com [MASK] `` .
+[MASK]
+Eduardo,Lucas
+Lucas
+
+Enquanto Mateus carregava Vitor subindo a longa escada em espiral , [MASK] pernas doíam .
+[MASK]
+Mateus,Vitor
+Mateus
+
+O cliente entrou no banco e esfaqueou um dos caixas . [MASK] foi levado imediatamente para o hospital .
+[MASK]
+cliente,caixas
+caixas
+
+João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando . [MASK] era muito irritante .
+[MASK]
+homem,João
+homem
+
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que [MASK] enfrentou em sua pesquisa .
+[MASK]
+Xenophanes,Goodman
+Goodman
+
+A mesa não vai passar pela porta de entrada porque [MASK] é muito estreita .
+[MASK]
+porta de entrada,mesa
+porta de entrada
+
+João contratou André para cuidar [MASK] .
+[MASK]
+André,João
+João
+
+Gabriela bateu à porta de Vanessa mas [MASK] não atendeu .
+[MASK]
+Vanessa,Gabriela
+Vanessa
+
+O pai carregava o menino dormindo em [MASK] colo
+[MASK]
+menino,pai
+pai
+
+Nesta manhã , José construiu um castelo de areia na praia , e colocou um soldado de brinquedo na torre mais alta , mas nesta tarde o vento derrubou [MASK] .
+[MASK]
+soldado,castelo de areia
+soldado
+
+Maria pegou sua flauta e tocou uma de suas peças favoritas . Ela tem [MASK] desde criança .
+[MASK]
+peças,flauta
+flauta
+
+Quando os apoiadores do projeto de lei chegaram à prefeitura , foram surpreendidos ao encontrarem a sala repleta de opositores . [MASK] estavam em vasta maioria .
+[MASK]
+opositores,apoiadores
+opositores
+
+Arqueologistas concluíram que humanos viveram em Laputa 20.000 anos atrás . [MASK] buscaram por evidências às margens do rio .
+[MASK]
+humanos,Arqueologistas
+Arqueologistas
+
+Eu não estava encontrando uma colher , então eu tentei usar um lápis para mexer meu café . Mas por fim isso foi uma má ideia , porque [MASK] ficou cheio de grafite .
+[MASK]
+café,lápis
+café
+
+A mesa não vai passar pela porta de entrada porque [MASK] é muito larga .
+[MASK]
+porta de entrada,mesa
+mesa
+
+Bruno colapsou na calçada . Logo ele viu Carlos vindo acudi-lo . [MASK] estava muito doente .
+[MASK]
+Bruno,Carlos
+Bruno
+
+Eu tentei fazer uma pintura de um pomar , com limões nos limoeiros , mas [MASK] acabaram parecendo mais lâmpadas .
+[MASK]
+limoeiros,limões
+limões
+
+Durante um jogo de pega-pega , Eduardo perseguiu Lucas porque `` estava com [MASK] `` .
+[MASK]
+Eduardo,Lucas
+Eduardo
+
+Há uma fenda na parede . É possível enxergar o jardim através [MASK] .
+[MASK]
+parede,fenda
+fenda
+
+Samuel teve aulas de francês com o Antonio , porque [MASK] era conhecido por falar fluentemente .
+[MASK]
+Antonio,Samuel
+Antonio
+
+Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro , então [MASK] contou pra ela a respeito .
+[MASK]
+Adriana,Vanessa
+Vanessa
+
+Madonna demitiu sua treinadora porque ela dormiu com o namorado [MASK] .
+[MASK]
+Madonna,treinadora
+Madonna
+
+Daniel ficou no banco de trás enquanto que André ganhou a frente porque [MASK] `` Eu primeiro ! '' foi lento .
+[MASK]
+André,Daniel
+Daniel
+
+André passou o prato pela metade para João porque [MASK] estava satisfeito .
+[MASK]
+André,João
+André
+
+Carol acreditava que Rebeca lamentava que [MASK] tinha roubado o relógio .
+[MASK]
+Carol,Rebeca
+Rebeca
+

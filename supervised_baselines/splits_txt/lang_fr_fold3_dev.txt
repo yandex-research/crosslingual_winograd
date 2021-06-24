@@ -1,0 +1,45 @@
+Pierre et Marc sont poursuivis pour diffamation . Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés . [MASK] aurait dû être plus prudent .
+[MASK]
+Pierre,Marc
+Marc
+
+Gabrielle est contente d'avoir échangé [MASK] pull contre mon gilet . Elle pense qu'il est très beau .
+[MASK]
+gilet,pull
+gilet
+
+Anne a demandé à Marie les horaires de fermeture de la bibliothèque , car [MASK] les avait oubliés .
+[MASK]
+Marie,Anne
+Anne
+
+Dupont a visité la tombe de Dubois en 1765 . A cette date [MASK] était mort depuis cinq ans .
+[MASK]
+Dubois,Dupont
+Dubois
+
+Claire a frappé à la porte de Sylvie , mais [MASK] n ' a pas répondu .
+[MASK]
+Claire,Sylvie
+Sylvie
+
+L'homme a porté le garçon sur [MASK] lit .
+[MASK]
+garçon,L'homme
+garçon
+
+La sculpture est tombée de l'étagère car [MASK] était trop encombrée .
+[MASK]
+La sculpture,l'étagère
+l'étagère
+
+Claire a remercié Suzanne pour tous les efforts qu'elle [MASK] a consacrés .
+[MASK]
+Suzanne,Claire
+Suzanne
+
+Thomas a dit `` échec '' à Raphaël et a capturé [MASK] fou .
+[MASK]
+Thomas,Raphaël
+Raphaël
+

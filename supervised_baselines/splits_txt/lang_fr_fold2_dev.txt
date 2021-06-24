@@ -1,0 +1,45 @@
+Le scooter a dépassé le bus scolaire , car [MASK] roulait trop lentement .
+[MASK]
+Le scooter,le bus scolaire
+le bus scolaire
+
+Thomas a dit `` échec '' à Raphaël et a capturé [MASK] fou .
+[MASK]
+Raphaël,Thomas
+Raphaël
+
+Le sac de pommes de terre est au-dessus du sac de farine , donc [MASK] faudra le déplacer en premier .
+[MASK]
+sac de farine,Le sac de pommes de terre
+Le sac de pommes de terre
+
+Fred et Alice ont des manteaux très chauds , mais [MASK] ne sont pas préparés pour l'hiver en Alaska .
+[MASK]
+Fred et Alice,manteaux
+Fred et Alice
+
+En juillet , le Kamchatka a déclaré la guerre à Yakoutsk . Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka , [MASK] ont perdu en quelques semaines .
+[MASK]
+Yakoutsk,le Kamchatka
+le Kamchatka
+
+Claire a remercié Suzanne pour tous les efforts qu'elle [MASK] a demandés .
+[MASK]
+Claire,Suzanne
+Claire
+
+Samuel et Amélie sont passionnément amoureux mais les parents d'Amélie sont contre cette relation car [MASK] sont jeunes .
+[MASK]
+les parents d'Amélie,Samuel et Amélie
+Samuel et Amélie
+
+Je suis sûre que ce monument est dans mon guide , [MASK] est complet .
+[MASK]
+guide,monument
+guide
+
+Pierre et Marc sont poursuivis pour diffamation . Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés . [MASK] aurait dû être plus honnête .
+[MASK]
+Marc,Pierre
+Pierre
+

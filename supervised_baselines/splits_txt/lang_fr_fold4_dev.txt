@@ -1,0 +1,45 @@
+Simon a pris des cours de français avec Adam , car [MASK] savait parler français couramment .
+[MASK]
+Simon,Adam
+Adam
+
+Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa [MASK] y a 20 000 ans . Ils cherchaient des indices sur les berges de la rivière .
+[MASK]
+Les archéologues,hommes préhistoriques
+Les archéologues
+
+Jean a embauché Benoît pour s'occuper de [MASK] .
+[MASK]
+Jean,Benoît
+Benoît
+
+Joël a payé le détective quand [MASK] a livré le rapport final sur l'affaire .
+[MASK]
+le détective,Joël
+le détective
+
+Le scooter a dépassé le bus scolaire , car [MASK] roulait trop vite .
+[MASK]
+le bus scolaire,Le scooter
+Le scooter
+
+La police a arrêté tous les membres d'un gang . [MASK] essayaient d'organiser un trafic de drogue dans le quartier .
+[MASK]
+gang,La police
+gang
+
+Jérémy a pris soin de Kevin , car [MASK] était très contrarié .
+[MASK]
+Jérémy,Kevin
+Kevin
+
+Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa [MASK] y a 20 000 ans . Ils cherchaient du gibier sur les berges de la rivière .
+[MASK]
+hommes préhistoriques,Les archéologues
+hommes préhistoriques
+
+Benoît a passé la gameboy à Jean car c'était [MASK] tour .
+[MASK]
+Benoît,Jean
+Jean
+

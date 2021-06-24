@@ -1,0 +1,1165 @@
+Jack shouted at Bill because [MASK] was angry .
+[MASK]
+Bill,Jack
+Jack
+
+John disliked Bill and [MASK] did not pick him .
+[MASK]
+John,Bill
+John
+
+Rosie beat Mary in Scrabble because [MASK] had a good vocabulary .
+[MASK]
+Mary,Rosie
+Rosie
+
+Sam pulled up a chair to the piano , but [MASK] was broken , so he had to sing instead .
+[MASK]
+the piano,chair
+the piano
+
+I think the referee treats Vick like a running back because [MASK] has distinct style of play .
+[MASK]
+the referee,Vick
+Vick
+
+Bill passed the half-empty plate to John because [MASK] was hungry .
+[MASK]
+John,Bill
+John
+
+Snooki got angry at Kendra since [MASK] would not emotionally support her in her time of need .
+[MASK]
+Snooki,Kendra
+Kendra
+
+Peacocks are considered very majestic birds by bird watchers , but [MASK] know it is just a perception of how they see things .
+[MASK]
+bird watchers,Peacocks
+bird watchers
+
+The fish ate the worm . [MASK] was tasty .
+[MASK]
+The fish,the worm
+the worm
+
+The Dallas Cowboys lost their lead to the Redskins because [MASK] started to perform very well in the second half .
+[MASK]
+the Redskins,The Dallas Cowboys
+the Redskins
+
+Mike helped Jack with his assignment because [MASK] felt like doing so .
+[MASK]
+Jack,Mike
+Mike
+
+The paintball player was mad at the referee because [MASK] missed a call .
+[MASK]
+the referee,The paintball player
+the referee
+
+The man offered the boy candy , but [MASK] got no candy .
+[MASK]
+The man,the boy
+the boy
+
+Ebay is often considered a great source by deal hunters to buy products , even though [MASK] often contain misleading descriptions .
+[MASK]
+Ebay,deal hunters
+Ebay
+
+Captain America lost a good friend , Michael , because [MASK] was killed in an accident .
+[MASK]
+Captain America,Michael
+Michael
+
+I put the cake away in the refrigerator . [MASK] has a lot of leftovers in it .
+[MASK]
+the refrigerator,the cake
+the refrigerator
+
+The construction workers hollered at the girls when [MASK] saw them .
+[MASK]
+the girls,The construction workers
+The construction workers
+
+Bob can beat Larry at arm wrestling because [MASK] is a toddler .
+[MASK]
+Larry,Bob
+Larry
+
+Nvidia is giving away two top of the line laptops to its users , so [MASK] have a chance to get them for free .
+[MASK]
+Nvidia,its users
+its users
+
+Will Smith got his son in a movie since [MASK] has much influence in the movie scene .
+[MASK]
+Will Smith,his son
+Will Smith
+
+The city council granted a permit to the construction workers because [MASK] were well qualified .
+[MASK]
+The city council,the construction workers
+the construction workers
+
+Ryan has much less hair than Gary , so [MASK] has to cut his hair constantly .
+[MASK]
+Gary,Ryan
+Gary
+
+The mechanic charged the man one hundred dollars although [MASK] only had eighty dollars .
+[MASK]
+The mechanic,the man
+the man
+
+The magician pulled a rabbit out of [MASK] cage .
+[MASK]
+a rabbit,The magician
+a rabbit
+
+Banks usually offer bonus points for new credit card applicants since [MASK] want them to specifically bank with them .
+[MASK]
+new credit card applicants,Banks
+Banks
+
+Windows is worse than Linux because [MASK] has a lot of viruses .
+[MASK]
+Windows,Linux
+Windows
+
+When the sponsors of the bill got to the town hall , they were surprised to find that the room was full of opponents . [MASK] were very much in the majority .
+[MASK]
+the sponsors,opponents
+opponents
+
+Bioware recently announced a stress test to beta users this weekend since [MASK] need to see the performance of their servers .
+[MASK]
+Bioware,beta users
+Bioware
+
+The bee landed on the flower because [MASK] wanted pollen .
+[MASK]
+the flower,The bee
+The bee
+
+Although they ran at about the same speed , Sue beat Sally because [MASK] had such a bad start .
+[MASK]
+Sally,Sue
+Sally
+
+Jessica did not like Selma cutting her hair short , but [MASK] ended up loving her new style .
+[MASK]
+Selma,Jessica
+Jessica
+
+The Autobots fight with every ounce of strength against the Decepticons , but [MASK] fight back just as hard .
+[MASK]
+the Decepticons,The Autobots
+the Decepticons
+
+Chase will have a cyber monday sale for credit users , but [MASK] may not necessarily care about the sale .
+[MASK]
+Chase,credit users
+credit users
+
+Gary envied Bill because [MASK] was poor .
+[MASK]
+Gary,Bill
+Gary
+
+Wall Street was bailed out by the government because [MASK] were on the verge of collapsing .
+[MASK]
+the government,Wall Street
+Wall Street
+
+The hyenas scavenged from the lions because [MASK] were desperate .
+[MASK]
+The hyenas,the lions
+The hyenas
+
+Jimbo ate the fish that Bobbert prepared because [MASK] was a good cook .
+[MASK]
+Jimbo,Bobbert
+Bobbert
+
+Jacob gave William money because [MASK] sold the car .
+[MASK]
+Jacob,William
+Jacob
+
+Lorenze took his son to the hospital since [MASK] was concerned for his health .
+[MASK]
+his son,Lorenze
+Lorenze
+
+The firemen arrived after the police because [MASK] were coming from so far away .
+[MASK]
+The firemen,the police
+The firemen
+
+Cats are smarter than dogs because [MASK] bark for no reason .
+[MASK]
+Cats,dogs
+dogs
+
+The mother punished the daughter because [MASK] was provoked .
+[MASK]
+The mother,the daughter
+The mother
+
+Captain Picard tends to confide in Commander Riker since [MASK] wants to ensure he develops into a fine captain one day .
+[MASK]
+Commander Riker,Captain Picard
+Captain Picard
+
+King James eagerly awaited the arrival of Prince Henry so [MASK] prepared many celebrations to welcome him .
+[MASK]
+King James,Prince Henry
+King James
+
+I was trying to open the lock with the key , but someone had filled the keyhole with chewing gum , and I could n't get [MASK] out .
+[MASK]
+the key,chewing gum
+chewing gum
+
+Kathy looked after the children of Mrs . Faith because [MASK] is quite capable as a baby sitter .
+[MASK]
+Kathy,Mrs. Faith
+Kathy
+
+The music player did not open the file because [MASK] was in the wrong format .
+[MASK]
+The music player,the file
+the file
+
+The pilots saved the passengers because [MASK] begged them to .
+[MASK]
+the passengers,The pilots
+the passengers
+
+The ghost entered the house because [MASK] was haunted .
+[MASK]
+The ghost,the house
+the house
+
+Herman Cain has fallen in the polls while Mitt Romney has increased his foothold because [MASK] is garnering more popularity among potential voters .
+[MASK]
+Mitt Romney,Herman Cain
+Mitt Romney
+
+Fred watched TV while George went out to buy groceries . After an hour [MASK] got up .
+[MASK]
+George,Fred
+Fred
+
+Jill outran Kate because [MASK] was slower .
+[MASK]
+Kate,Jill
+Kate
+
+I took the water bottle out of the backpack so that [MASK] would be lighter .
+[MASK]
+the water bottle,the backpack
+the backpack
+
+Hitler conquered Alex in the war because nobody supported [MASK] .
+[MASK]
+Alex,Hitler
+Alex
+
+DVD Players are slowly being replaced by Blu Ray Systems since [MASK] are becoming the new medium of entertainment .
+[MASK]
+DVD Players,Blu Ray Systems
+Blu Ray Systems
+
+Jesus appeared to Thomas in order to show that [MASK] had risen .
+[MASK]
+Jesus,Thomas
+Jesus
+
+We gave the fruit to the humans because [MASK] were ripe .
+[MASK]
+the humans,the fruit
+the fruit
+
+The chimpanzee could not use Linux because [MASK] was an animal .
+[MASK]
+The chimpanzee,Linux
+The chimpanzee
+
+George talked to Bill because [MASK] had experience .
+[MASK]
+George,Bill
+Bill
+
+Positive SSL sells wildcard certificates to Web hosting companies , but [MASK] have multiple options to purchase certificates from .
+[MASK]
+Web hosting companies,Positive SSL
+Web hosting companies
+
+The bartenders threw ice at the Jersey Shore cast because [MASK] did not not like them in their club .
+[MASK]
+the Jersey Shore cast,The bartenders
+The bartenders
+
+The security team locked the scientists inside the building since [MASK] had access to confidential materials that need to be kept secret .
+[MASK]
+the scientists,The security team
+the scientists
+
+The US president had a meeting with the Chinese president , where [MASK] told him not to interfere with China 's internal policy .
+[MASK]
+The US president,the Chinese president
+the Chinese president
+
+Shawn hit Joe but [MASK] did not apologize .
+[MASK]
+Shawn,Joe
+Shawn
+
+Field Reporter Chris Johnson interviewed Corporal Mason because [MASK] can provide information from fighting on the front line .
+[MASK]
+Field Reporter Chris Johnson,Corporal Mason
+Corporal Mason
+
+The police arrested 700 protesters in New York since [MASK] tried to block traffic on the Manhattan bridge .
+[MASK]
+The police,700 protesters
+The police
+
+Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since [MASK] are charging too much for their plan .
+[MASK]
+Hulu,Dish Network
+Dish Network
+
+Taylor Swift is higher in record sales over Beyonce because people are not passionate about [MASK] music .
+[MASK]
+Beyonce,Taylor Swift
+Beyonce
+
+Gartok defeated Grognak because [MASK] was puny and weak .
+[MASK]
+Gartok,Grognak
+Grognak
+
+Penguins tend to stay on land to avoid killer whales , because [MASK] can not go on land .
+[MASK]
+killer whales,Penguins
+killer whales
+
+Kim offered mushrooms to Laura , because [MASK] might like them .
+[MASK]
+Kim,Laura
+Laura
+
+Joe slapped Jose in the face because [MASK] cussed him out .
+[MASK]
+Jose,Joe
+Jose
+
+Federer consistently beat Nadal since [MASK] was the better tennis player .
+[MASK]
+Nadal,Federer
+Federer
+
+We had hoped to place copies of our newsletter on all the chairs in the auditorium , but there were simply not enough of [MASK] .
+[MASK]
+copies of our newsletter,the chairs
+copies of our newsletter
+
+Joe smells better than Adam since [MASK] showers regularly .
+[MASK]
+Adam,Joe
+Joe
+
+The football players went on strike against the NFL organization , but [MASK] will play again when their demands are met .
+[MASK]
+The football players,the NFL organization
+The football players
+
+Randy went to Nick 's store , and bought [MASK] groceries .
+[MASK]
+Nick,Randy
+Randy
+
+Gas powered fireplaces are environmentally friendly as compared to traditional fireplaces since [MASK] do not need wood to burn .
+[MASK]
+Gas powered fireplaces,traditional fireplaces
+Gas powered fireplaces
+
+The NBA will most likely have a lockout this year due to players rejecting their latest compromise , because [MASK] wanted better terms to be presented to them .
+[MASK]
+The NBA,players
+players
+
+Randy went to Nick 's store , and looked at [MASK] groceries .
+[MASK]
+Nick,Randy
+Nick
+
+The Drill Sergeants trained the troops aggressively so [MASK] could prepare them for the impending war .
+[MASK]
+the troops,The Drill Sergeants
+The Drill Sergeants
+
+When Mr . Bond , the veterinarian , came to look at the black horse that lay groaning on the grass , he felt [MASK] all over , and shook his head ; one of his legs was broken .
+[MASK]
+the black horse,Mr. Bond
+the black horse
+
+Jim was delighted to see Jack , because [MASK] was given the strength to finish his day .
+[MASK]
+Jack,Jim
+Jim
+
+The boy secretly watched his friend because [MASK] wanted the secret information .
+[MASK]
+The boy,his friend
+The boy
+
+Bill punched Bob in the face because [MASK] was being rude to Mary .
+[MASK]
+Bill,Bob
+Bob
+
+Battlefield 3 is more fun than Modern Warfare 3 because [MASK] is a better game .
+[MASK]
+Battlefield 3,Modern Warfare 3
+Battlefield 3
+
+Babar wonders how he can get new clothing . Luckily , a very rich old man who has always been fond of little elephants understands right away that he is longing for a fine suit . As he likes to make people happy , he gives [MASK] his wallet .
+[MASK]
+old man,Babar
+Babar
+
+Sam took French classes from Adam , because [MASK] was eager to speak it fluently .
+[MASK]
+Sam,Adam
+Sam
+
+Liverpool lost to Manchester United because [MASK] had been mismanaged all season .
+[MASK]
+Manchester United,Liverpool
+Liverpool
+
+Customer Support fields the questions of their customers so [MASK] could receive immediate assistance .
+[MASK]
+their customers,Customer Support
+their customers
+
+Our professor told the TA that [MASK] needed his help .
+[MASK]
+the TA,Our professor
+Our professor
+
+Bill was able to steal the banana from Ken because [MASK] was slow .
+[MASK]
+Ken,Bill
+Ken
+
+Joe has sold his house and bought a new one a few miles away . He will be moving into [MASK] on Thursday .
+[MASK]
+his house,a new one
+a new one
+
+Taco needs hot sauce because [MASK] improves the flavor .
+[MASK]
+hot sauce,Taco
+hot sauce
+
+MIT accepted the students , because [MASK] had good grades .
+[MASK]
+MIT,the students
+the students
+
+New York City was grateful for the sacrifices the American Armed Forces did to save their city because [MASK] managed to divert a devastating attack .
+[MASK]
+the American Armed Forces,New York City
+the American Armed Forces
+
+The boy ran from the cop because [MASK] saw the crime .
+[MASK]
+The boy,the cop
+the cop
+
+Stephen King called Spielberg so that [MASK] could call him back .
+[MASK]
+Spielberg,Stephen King
+Spielberg
+
+Entertainmart has to win over the consumers with their low prices , or [MASK] will most likely go out of business .
+[MASK]
+the consumers,Entertainmart
+Entertainmart
+
+Paul screamed at Jack since [MASK] was ignoring him .
+[MASK]
+Jack,Paul
+Jack
+
+The criminal shocked John , because [MASK] pulled out a gun .
+[MASK]
+John,The criminal
+The criminal
+
+The cats attacked the humans because [MASK] smelled like fish .
+[MASK]
+the humans,The cats
+the humans
+
+Rob was granted a gun license while Jon was not , because [MASK] had passed the background check .
+[MASK]
+Jon,Rob
+Rob
+
+John could n't see the stage with Billy in front of him because [MASK] is so short .
+[MASK]
+John,Billy
+John
+
+When Sue went to Nadia 's home for dinner , [MASK] served sukiyaki au gratin .
+[MASK]
+Nadia,Sue
+Sue
+
+Fred covered his eyes with his hands , because the wind was blowing sand around . He opened [MASK] when the wind stopped .
+[MASK]
+his eyes,his hands
+his eyes
+
+George got free tickets to the play , but [MASK] gave them to Eric , even though he was particularly eager to see it .
+[MASK]
+Eric,George
+George
+
+Chase will have a cyber monday sale for credit users since [MASK] want to entice users to continue using their cards .
+[MASK]
+Chase,credit users
+Chase
+
+Claudia lost all her money to Valarie because [MASK] is really smart .
+[MASK]
+Claudia,Valarie
+Valarie
+
+The cheetah outran the antelope so [MASK] got eaten .
+[MASK]
+the antelope,The cheetah
+the antelope
+
+In the middle of the outdoor concert , the rain started falling , but [MASK] continued until 10 .
+[MASK]
+the rain,concert
+concert
+
+The bat hit the ball because [MASK] was designed to hit .
+[MASK]
+The bat,the ball
+The bat
+
+The Dallas Cowboys are more successful as a franchise than the Saints because [MASK] do not have the same amount of market value .
+[MASK]
+The Dallas Cowboys,the Saints
+the Saints
+
+Stargate Atlantis was replaced by Stargate Universe since [MASK] were not doing very well in the ratings .
+[MASK]
+Stargate Atlantis,Stargate Universe
+Stargate Atlantis
+
+Jill loves Jamie and [MASK] bought her a ring .
+[MASK]
+Jamie,Jill
+Jill
+
+The slaves were forced to do the bidding of the nobles since [MASK] have no rights .
+[MASK]
+The slaves,the nobles
+The slaves
+
+Some enthusiastic Black Friday shoppers are already lining up at retail stores because [MASK] have some really low priced items that will be on sale .
+[MASK]
+Some enthusiastic Black Friday shoppers,retail stores
+retail stores
+
+AMD recently managed to break a record in the New Guiness Book of Records , because [MASK] managed to overclock their processor to unheard heights .
+[MASK]
+AMD,the New Guiness Book of Records
+AMD
+
+The keys typed the words because [MASK] were meant to be typed on .
+[MASK]
+the words,The keys
+The keys
+
+This book introduced Shakespeare to Ovid ; it was a major influence on [MASK] writing .
+[MASK]
+Shakespeare,Ovid
+Shakespeare
+
+James Cameron is more successful than Michael Bay because [MASK] movies do not create as much hype .
+[MASK]
+James Cameron,Michael Bay
+Michael Bay
+
+Adam failed to kill Alexander , so [MASK] hired an assassin for the second attempt .
+[MASK]
+Adam,Alexander
+Adam
+
+Kung Fu teachers try to pass on discipline to their disciples , but [MASK] do not always learn what they are being taught very well .
+[MASK]
+Kung Fu teachers,their disciples
+their disciples
+
+Ashton Kutcher replaced Charlie Sheen as the main character of Two and a Half Men , but [MASK] did not leave the show willingly .
+[MASK]
+Charlie Sheen,Ashton Kutcher
+Charlie Sheen
+
+The NSA sent their agents in the field to retrieve intelligence because [MASK] need people in the field to do the field work .
+[MASK]
+their agents,The NSA
+The NSA
+
+Iphones are selling more than androids because [MASK] are trendy .
+[MASK]
+Iphones,androids
+Iphones
+
+Walmart is promoting their Black Friday sale heavily in commercials because [MASK] want to start off the Christmas season successfully in sales .
+[MASK]
+commercials,Walmart
+Walmart
+
+Tom gave James a coat because [MASK] was generous .
+[MASK]
+Tom,James
+Tom
+
+Disney World offers a much wider array of rides than Six Flags since [MASK] have a much larger budget due to their merchandising .
+[MASK]
+Six Flags,Disney World
+Disney World
+
+Stretching [MASK] back , the woman smiled at the girl .
+[MASK]
+the woman,the girl
+the woman
+
+Watson beat Ken at Jeopardy because [MASK] is a superior machine .
+[MASK]
+Ken,Watson
+Watson
+
+Officer Kennedy saved Roger from the criminals because [MASK] upholds the peace .
+[MASK]
+Officer Kennedy,Roger
+Officer Kennedy
+
+Raccoons constantly play dead when people come near because [MASK] frighten them .
+[MASK]
+Raccoons,people
+people
+
+John shot Bill and [MASK] died .
+[MASK]
+Bill,John
+Bill
+
+Mary smiled at Susan , but [MASK] was not happy to see her .
+[MASK]
+Susan,Mary
+Mary
+
+Verizon Fios provides hundreds of channels to millions of viewers , because [MASK] want them to have a plethora of options to choose from .
+[MASK]
+Verizon Fios,millions of viewers
+Verizon Fios
+
+Caroline quickly defeated Sue because [MASK] regained her confidence .
+[MASK]
+Sue,Caroline
+Caroline
+
+The academic clubs lost their members because [MASK] were poorly funded .
+[MASK]
+The academic clubs,their members
+The academic clubs
+
+Lucas is younger than Claus because [MASK] was born last .
+[MASK]
+Claus,Lucas
+Lucas
+
+The cat looked at the big dog , and [MASK] was terrified .
+[MASK]
+The cat,the big dog
+The cat
+
+The youth outran the old man because [MASK] broke his hip .
+[MASK]
+The youth,the old man
+the old man
+
+Chase Sapphire has a 24 hour service line for card holders so [MASK] would be available to help if their customer encounters trouble .
+[MASK]
+Chase Sapphire,card holders
+Chase Sapphire
+
+The lion bit the gazelle because [MASK] had horns .
+[MASK]
+The lion,the gazelle
+the gazelle
+
+Tim asked Jerry to run to the store so that [MASK] could relax .
+[MASK]
+Tim,Jerry
+Tim
+
+The youth outran the old man because [MASK] was in shape .
+[MASK]
+the old man,The youth
+The youth
+
+Batman caught the thief , and [MASK] recovered the stolen diamonds .
+[MASK]
+Batman,the thief
+Batman
+
+John rated Bill because [MASK] was the judge .
+[MASK]
+Bill,John
+John
+
+Sally gave Kelly a doll because [MASK] had extra dolls .
+[MASK]
+Sally,Kelly
+Sally
+
+Susan knows all about Ann 's personal problems because [MASK] is nosy .
+[MASK]
+Ann,Susan
+Susan
+
+The shipping company harvests lobster for their business , since [MASK] are considered an exquisite meal .
+[MASK]
+lobster,The shipping company
+lobster
+
+Doctor Conrad Murray is accused of negligence in Michael Jackson 's death because [MASK] overdosed on drugs when the doctor was present .
+[MASK]
+Doctor Conrad Murray,Michael Jackson
+Michael Jackson
+
+Raiden could not follow and guide Liu Kang in the world of darkness , but [MASK] will be able to find another guide instead .
+[MASK]
+Liu Kang,Raiden
+Liu Kang
+
+The table was piled high with food , and on the floor beside [MASK] there were crocks , baskets , and a five-quart pail of milk .
+[MASK]
+floor,table
+table
+
+Sir Clifford wants me to find him a new groom , about twenty or twenty-one , who knows [MASK] business . His old coachman is getting feeble , and he wants a man to work with him and get into his ways , who would be able , when the old man was pensioned off , to step into his place
+[MASK]
+old coachman,new groom
+old coachman
+
+Sentinel tried to betray Optimus by enslaving the human race , but [MASK] did not succeed in his plan .
+[MASK]
+Optimus,Sentinel
+Sentinel
+
+The man asked Mark the question again because [MASK] was being evasive .
+[MASK]
+Mark,The man
+Mark
+
+Mary had a little lamb until [MASK] had lamb chops for dinner .
+[MASK]
+a little lamb,Mary
+Mary
+
+Emma did not pass the ball to Janie although [MASK] was open .
+[MASK]
+Janie,Emma
+Janie
+
+The couple took the car to the shop on Tuesday , but [MASK] will not charge until next week .
+[MASK]
+The couple,the shop
+the shop
+
+The cat was lying by the mouse hole waiting for the mouse , but [MASK] was too impatient .
+[MASK]
+The cat,the mouse
+The cat
+
+Kenmore is known for making superb appliances which is sold at Sears since [MASK] constantly leave customers happy with their high quality brand .
+[MASK]
+Sears,Kenmore
+Kenmore
+
+The airline unions constantly go on strike against the airlines because [MASK] do not care for the employees .
+[MASK]
+the airlines,The airline unions
+the airlines
+
+Apple was in talks with Verizon to be their dedicated phone provider initially because [MASK] were a prime candidate to provide their service .
+[MASK]
+Apple,Verizon
+Verizon
+
+Joe Joe 's uncle can still beat him at tennis , even though [MASK] is 30 years older .
+[MASK]
+Joe's uncle,Joe
+Joe's uncle
+
+What about the time you cut up tulip bulbs in the hamburgers because you thought [MASK] were onions ?
+[MASK]
+hamburgers,tulip bulbs
+tulip bulbs
+
+The government placed a tax on the product so [MASK] could profit from sales .
+[MASK]
+The government,the product
+The government
+
+The mother bear attacked Karen because [MASK] had gotten too close to her cub .
+[MASK]
+The mother bear,Karen
+Karen
+
+Tim bought Eric a gecko , but [MASK] did not like it .
+[MASK]
+Eric,Tim
+Eric
+
+Our mistress hired a room for my crippled sister Nelly , and [MASK] gave her knitting and needlework when she was able to do it , and when she was ill she sent her dinners and many nice comfortable things and was like a mother to her .
+[MASK]
+Nelly,mistress
+mistress
+
+Space Marines are played more often than Orks , but [MASK] are noticed more often at tournaments due to their uniqueness .
+[MASK]
+Orks,Space Marines
+Orks
+
+We went to the lake , because a shark had been seen at the ocean beach , so [MASK] was a safer place to swim .
+[MASK]
+the ocean beach,the lake
+the lake
+
+John ridiculed Bill because [MASK] acted like a fool .
+[MASK]
+Bill,John
+Bill
+
+Thomson visited Cooper 's grave in 1765 . At that date [MASK] had been travelling for five years .
+[MASK]
+Cooper,Thomson
+Thomson
+
+The assembly line workers were told [MASK] had been fired by the company , because they had moved the jobs overseas .
+[MASK]
+The assembly line workers,the company
+The assembly line workers
+
+The sack of potatoes had been placed above the bag of flour , so [MASK] had to be moved first .
+[MASK]
+the bag of flour,The sack of potatoes
+The sack of potatoes
+
+The forensic team managed to link the criminals to the crime , so [MASK] are now going to go to prison .
+[MASK]
+the criminals,The forensic team
+the criminals
+
+This morning , Joey built a sand castle on the beach , and put a toy flag in the highest tower , but this afternoon the wind knocked [MASK] down .
+[MASK]
+sand castle,flag
+flag
+
+King Leonidas was more respected than King Henry because [MASK] treated the people as equal citizens .
+[MASK]
+King Leonidas,King Henry
+King Leonidas
+
+Amazon offers a generous credit program for college books since [MASK] can be resold again to other buyers .
+[MASK]
+Amazon,college books
+college books
+
+Jessica did not like Selma cutting her hair short , so [MASK] tried to be conservative in the length she cut it .
+[MASK]
+Selma,Jessica
+Selma
+
+The space marines killed the aliens because [MASK] were ordered to .
+[MASK]
+the aliens,The space marines
+The space marines
+
+Terranova has better ratings than House since [MASK] have a small target audience .
+[MASK]
+House,Terranova
+House
+
+The NBA will most likely have a lockout this year due to players rejecting their latest compromise , but [MASK] refuse to write up a new compromise with them .
+[MASK]
+players,The NBA
+The NBA
+
+Paul tried to call George on the phone , but [MASK] was n't available .
+[MASK]
+George,Paul
+George
+
+The river destroyed the bridge because [MASK] was low .
+[MASK]
+The river,the bridge
+the bridge
+
+The teachers failed the students because [MASK] graded the test incorrectly .
+[MASK]
+The teachers,the students
+The teachers
+
+The Disney characters at Disney World entertain the audience since [MASK] are paying good money to having an enjoyable experience .
+[MASK]
+The Disney characters,the audience
+the audience
+
+I could n't find a spoon , so I tried using a pen to stir my coffee . But that turned out to be a bad idea , because [MASK] got full of coffee .
+[MASK]
+pen,coffee
+pen
+
+There is more NLP work on English than on Bengali because [MASK] has little linguistic resources .
+[MASK]
+English,Bengali
+Bengali
+
+David hit Bill and [MASK] enjoyed it .
+[MASK]
+David,Bill
+David
+
+A motorboat turns the propeller pushing the water backwards , thus [MASK] moves forward .
+[MASK]
+the propeller,A motorboat
+A motorboat
+
+Tim bought Eric a gecko , because [MASK] liked him .
+[MASK]
+Tim,Eric
+Tim
+
+Raja wanted Rena to take the job because [MASK] wanted to leave .
+[MASK]
+Rena,Raja
+Raja
+
+The journalists interviewed the stars of the new movie . [MASK] were very cooperative , so the interview lasted for a long time .
+[MASK]
+the stars,The journalists
+the stars
+
+Papa looked down at the children 's faces , so puzzled and sad now . It was bad enough that they had to be denied so many things because he could n't afford [MASK] .
+[MASK]
+faces,things
+things
+
+Google bought Motorola because [MASK] want its customer base .
+[MASK]
+Google,Motorola
+Google
+
+Simon Cowell makes fun of Ryan Seacrest since [MASK] feels superior .
+[MASK]
+Ryan Seacrest,Simon Cowell
+Simon Cowell
+
+If the con artist has succeeded in fooling Sam , [MASK] would have gotten a lot of money .
+[MASK]
+the con artist,Sam
+the con artist
+
+Sherry called Karla but [MASK] did not answer .
+[MASK]
+Sherry,Karla
+Karla
+
+Blockbuster increased the time allotted for customers to return videos , so [MASK] would not be able to rent videos out quicker now .
+[MASK]
+customers,Blockbuster
+customers
+
+Fox News is more popular in ratings than CNN since [MASK] are boring .
+[MASK]
+Fox News,CNN
+CNN
+
+The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word , because [MASK] felt that this was the least they could do to thank the troops .
+[MASK]
+The celebrities,their dates
+The celebrities
+
+Steve Urkel was always annoying Carl Winslow in the show , `` Family Matters '' , because [MASK] is quite annoying by nature .
+[MASK]
+Carl Winslow,Steve Urkel
+Steve Urkel
+
+Gamers are generally perceived as nerds compared to athletes since [MASK] are stereotypically anti-social .
+[MASK]
+Gamers,athletes
+Gamers
+
+Gladiators are viewed better than Slaves because [MASK] fight to the death in the arena .
+[MASK]
+Slaves,Gladiators
+Gladiators
+
+The rock melted in the lava because [MASK] was pushed .
+[MASK]
+The rock,the lava
+The rock
+
+Bush beat Gore because [MASK] rigged the election .
+[MASK]
+Gore,Bush
+Bush
+
+The skeleton was scarier than the pumpkin , because [MASK] looked like it was walking .
+[MASK]
+The skeleton,the pumpkin
+The skeleton
+
+Intel performs better than AMD in the processing market , but [MASK] do not do as well in the graphics market .
+[MASK]
+AMD,Intel
+Intel
+
+The sack of potatoes had been placed above the bag of flour , so [MASK] had to be moved first .
+[MASK]
+The sack of potatoes,the bag of flour
+The sack of potatoes
+
+Sony recently locked 90000 users from their accounts because [MASK] had hackers compromise their customer 's information .
+[MASK]
+90000 users,Sony
+Sony
+
+Joe 's uncle can still beat him at tennis , even though [MASK] is 30 years younger .
+[MASK]
+Joe,Joe's uncle
+Joe
+
+Stargate Atlantis was replaced by Stargate Universe since [MASK] were hoping that this show would do better in the ratings .
+[MASK]
+Stargate Atlantis,Stargate Universe
+Stargate Universe
+
+The gardener watered the owner 's rose because [MASK] paid him for that .
+[MASK]
+the owner,The gardener
+the owner
+
+Gamers are generally perceived as nerds compared to athletes since [MASK] are stereotypically social and in good shape .
+[MASK]
+Gamers,athletes
+athletes
+
+Treasure hunters have to constantly fear running into bandits , even though [MASK] are rarely out to get them .
+[MASK]
+bandits,Treasure hunters
+bandits
+
+John ridiculed Bill because [MASK] liked to look down upon others .
+[MASK]
+Bill,John
+John
+
+Republicans preferred Romney to Perry because [MASK] said his supporters were heartless .
+[MASK]
+Perry,Romney
+Perry
+
+Ryan Higa sometimes guest stars in videos for Kev Jumbo because [MASK] wants his friend 's videos to succeed as well .
+[MASK]
+Kev Jumbo,Ryan Higa
+Ryan Higa
+
+The Crusaders fought many unholy enemies since [MASK] were considered unholy by the priests .
+[MASK]
+many unholy enemies,The Crusaders
+many unholy enemies
+
+Research studies recently revealed that Netflix consumes over 37 percent of the world 's internet bandwidth since [MASK] need that much due to high demand of their streaming services .
+[MASK]
+Research studies,Netflix
+Netflix
+
+John promised Bill to leave , so an hour later [MASK] left .
+[MASK]
+John,Bill
+John
+
+The police tried to blockade the bridge to prevent the criminals from escaping , but [MASK] needed additional backup to be successful .
+[MASK]
+the criminals,The police
+The police
+
+The foxes are getting in at night and attacking the chickens . I shall have to kill [MASK] .
+[MASK]
+The foxes,the chickens
+The foxes
+
+Fry 's Electronics is more successful than Comp USA since [MASK] can not compete competitively in price .
+[MASK]
+Fry's Electronics,Comp USA
+Comp USA
+
+Bob Marley shot the sheriff , but [MASK] swears it was in self-defense .
+[MASK]
+Bob Marley,the sheriff
+Bob Marley
+
+Master Sifu passes wisdom on to Jack so [MASK] listens very intently to what he has to say .
+[MASK]
+Master Sifu,Jack
+Jack
+
+Stretching [MASK] back , the woman smiled at the girl .
+[MASK]
+the woman,the girl
+the woman
+
+The police officer shot the protester because [MASK] lost composure .
+[MASK]
+the protester,The police officer
+The police officer
+
+The priests quoted the words of the Bible for all the suspected witches [MASK] found , since they needed to quote holy words to rid the evil .
+[MASK]
+The priests,the suspected witches
+The priests
+
+Liu Kang threw the bags of Johnny Cage into the water because [MASK] was annoyed that he thought he was a baggage boy .
+[MASK]
+Johnny Cage,Liu Kang
+Liu Kang
+
+Cartman finally decided to get rid of his stuffed animal , Clyde Frog , so [MASK] was donated to charity .
+[MASK]
+Clyde Frog,Cartman
+Clyde Frog
+
+Rice beat Texas , even though [MASK] were the best team in the nation .
+[MASK]
+Rice,Texas
+Texas
+

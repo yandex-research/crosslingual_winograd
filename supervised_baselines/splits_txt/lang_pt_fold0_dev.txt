@@ -1,0 +1,135 @@
+Os jornalistas entrevistaram os astros do novo filme . [MASK] foram muito persistentes , então a entrevista se estendeu por muito tempo .
+[MASK]
+astros,jornalistas
+jornalistas
+
+A mulher estava segurando a menina contra [MASK] peito .
+[MASK]
+mulher,menina
+mulher
+
+As raposas estão entrando à noite e atacando as galinhas . [MASK] se tornaram muito nervosas .
+[MASK]
+raposas,galinhas
+galinhas
+
+Eu servi o refrigerante no copo até que [MASK] ficasse cheio .
+[MASK]
+copo,refrigerante
+copo
+
+O cliente entrou no banco e esfaqueou um dos caixas . [MASK] foi levado imediatamente para a delegacia .
+[MASK]
+caixas,cliente
+cliente
+
+Bruno custeou o ensino superior de Fabio . [MASK] é muito generoso .
+[MASK]
+Bruno,Fabio
+Bruno
+
+Carol acreditava que Rebeca lamentava que [MASK] tinha roubado o relógio .
+[MASK]
+Carol,Rebeca
+Rebeca
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela lê [MASK] quando chega do trabalho .
+[MASK]
+livro,artigo
+livro
+
+Madonna demitiu sua treinadora porque ela não suportava o namorado [MASK] .
+[MASK]
+Madonna,treinadora
+treinadora
+
+Se o golpista tivesse sido bem sucedido em enganar o Samuel , [MASK] teria perdido muito dinheiro .
+[MASK]
+Samuel,golpista
+Samuel
+
+João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias . [MASK] ficou muito impressionado .
+[MASK]
+homem fazendo malabarismos,João
+João
+
+Jorge pagou o detetive após [MASK] ter entregado o relatório final sobre o caso .
+[MASK]
+detetive,Jorge
+detetive
+
+Este livro introduziu Shakespeare a Goethe ; ele era uma excelente seleção de [MASK] escrita .
+[MASK]
+Goethe,Shakespeare
+Shakespeare
+
+O homem não conseguia erguer seu filho porque [MASK] era muito fraco .
+[MASK]
+homem,filho
+homem
+
+Quando os apoiadores do projeto de lei chegaram à prefeitura , foram surpreendidos ao encontrarem a sala repleta de opositores . [MASK] estavam em vasta minoria .
+[MASK]
+opositores,apoiadores
+apoiadores
+
+Kirilov cedeu a presidência a Shatov porque [MASK] era menos popular .
+[MASK]
+Kirilov,Shatov
+Kirilov
+
+A luz do sol estava impedida por uma grande nuvem a manhã toda , mas por sorte , na hora em que o piquenique começou , [MASK] foi embora .
+[MASK]
+luz do sol,nuvem
+nuvem
+
+Samuel tentou pintar um quadro de pastoras com ovelhas , mas [MASK] acabaram ficando mais parecidas com golfistas .
+[MASK]
+pastoras,ovelhas
+pastoras
+
+Os bombeiros chegaram antes dos policiais porque [MASK] estavam vindo de muito longe .
+[MASK]
+bombeiros,policiais
+policiais
+
+Vinícius disse `` Check `` para Rafael enquanto ele tomava [MASK] bispo .
+[MASK]
+Rafael,Vinícius
+Rafael
+
+Maria pegou sua flauta e tocou uma de suas peças favoritas . Ela tem [MASK] desde criança .
+[MASK]
+peças,flauta
+flauta
+
+O tio do Jorge ainda consegue derrotar ele no tênis , apesar de [MASK] ser 30 anos mais velho .
+[MASK]
+tio do Jorge,Jorge
+tio do Jorge
+
+O gato estava deitado próximo ao buraco esperando pelo rato , mas [MASK] estava muito impaciente .
+[MASK]
+rato,gato
+gato
+
+Samuel quebrou ambas as pernas e agora ele está andando com muletas . Mas em aproximadamente um mês [MASK] devem não ser mais necessárias .
+[MASK]
+muletas,pernas
+muletas
+
+Antonio não pode sair do trabalho até que Bruno chegue para substituir ele . Se Bruno tivesse saído de casa na hora certa , [MASK] já teria saído agora .
+[MASK]
+Bruno,Antonio
+Antonio
+
+Jackson sofreu forte influência de Arnold , mesmo [MASK] tendo vivido dois séculos antes .
+[MASK]
+Arnold,Jackson
+Arnold
+
+André passou o gameboy para João porque [MASK] vez era a próxima .
+[MASK]
+André,João
+João
+

@@ -1,0 +1,135 @@
+Eu retirei a garrafa d'água da mochila para que [MASK] ficasse leve .
+[MASK]
+garrafa d'água,mochila
+mochila
+
+Samuel quebrou ambas as pernas e agora ele está andando com muletas . Mas em aproximadamente um mês [MASK] devem estar melhores .
+[MASK]
+pernas,muletas
+pernas
+
+As raposas estão entrando à noite e atacando as galinhas . Eu terei que matar [MASK] .
+[MASK]
+galinhas,raposas
+raposas
+
+Gabriela deu doces para Jéssica porque [MASK] não estava com fome .
+[MASK]
+Gabriela,Jéssica
+Gabriela
+
+Gabriel conseguiu ingressos de graça para a peça , mas ele os deu para Manoel , porque [MASK] estava particularmente interessado em assistir ela .
+[MASK]
+Gabriel,Manoel
+Manoel
+
+João estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias . [MASK] ficou muito impressionado .
+[MASK]
+João,homem fazendo malabarismos
+João
+
+Ricardo explicou sua teoria para o Marcos mas [MASK] não conseguiu convencê-lo .
+[MASK]
+Marcos,Ricardo
+Ricardo
+
+Em julho , Kamtchatka declarou guerra contra Yakutsk . Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior , [MASK] foram derrotados em semanas .
+[MASK]
+Kamtchatka,Yakutsk
+Kamtchatka
+
+Vinícius jogou sua mochila lá embaixo para o Raimundo depois que [MASK] atingiu o topo da escada .
+[MASK]
+Raimundo,Vinícius
+Vinícius
+
+O saco de batatas havia sido colocado em cima do saco de farinha , portanto [MASK] tinha que ser retirado antes .
+[MASK]
+saco de batatas,saco de farinha
+saco de batatas
+
+Eu vi o Guilherme gritando com um cara que vestia uma farda e tinha uma grande barba ruiva . Eu não sei quem [MASK] era , mas ele parecia muito chateado .
+[MASK]
+Guilherme,cara que vestia uma farda
+cara que vestia uma farda
+
+Este livro introduziu Shakespeare a Ovídio ; ele era uma excelente seleção de [MASK] escrita .
+[MASK]
+Ovídio,Shakespeare
+Ovídio
+
+Os bombeiros chegaram antes dos policiais porque [MASK] estavam vindo de muito longe .
+[MASK]
+bombeiros,policiais
+policiais
+
+A mãe da Fernanda havia morrido fazia muitos anos , e a educação [MASK] estava sendo cuidada por uma excelente governanta .
+[MASK]
+Fernanda,mãe da Fernanda
+Fernanda
+
+Samuel puxou um banco para o piano , mas [MASK] estava quebrado , então ele teve que cantar .
+[MASK]
+banco,piano
+piano
+
+Como estava chovendo , eu carreguei a revista na minha mochila para manter [MASK] seca .
+[MASK]
+revista,mochila
+revista
+
+João não conseguia enxergar o palco com Arthur na sua frente porque [MASK] é muito baixo .
+[MASK]
+Arthur,João
+João
+
+Bruno custeou o ensino superior de Fabio , mas agora Fabio age como se isso nunca tivesse acontecido . [MASK] é muito ingrato .
+[MASK]
+Fabio,Bruno
+Fabio
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela escreve [MASK] quando chega do trabalho .
+[MASK]
+livro,artigo
+artigo
+
+Fernando visitou o túmulo de Leonardo em 1765 . Naquela data fazia cinco anos que [MASK] estava viajando .
+[MASK]
+Fernando,Leonardo
+Fernando
+
+André passou o gameboy para João porque [MASK] vez tinha acabado .
+[MASK]
+João,André
+André
+
+O pai carregava o menino dormindo em [MASK] berço .
+[MASK]
+menino,pai
+menino
+
+Tenho certeza que meu mapa vai mostrar esse prédio ; [MASK] é muito bom .
+[MASK]
+prédio,mapa
+mapa
+
+O quadro na sala de estar do Marcos mostra um carvalho . [MASK] está à direita da casa .
+[MASK]
+carvalho,quadro
+carvalho
+
+Este livro introduziu Shakespeare a Goethe ; ele era uma excelente seleção de [MASK] escrita .
+[MASK]
+Goethe,Shakespeare
+Shakespeare
+
+Carol acreditava que Rebeca suspeitava que [MASK] tinha roubado o relógio .
+[MASK]
+Carol,Rebeca
+Carol
+
+Os bombeiros chegaram depois dos policiais porque [MASK] estavam vindo de muito longe .
+[MASK]
+policiais,bombeiros
+bombeiros
+

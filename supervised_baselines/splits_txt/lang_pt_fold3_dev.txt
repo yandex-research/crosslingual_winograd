@@ -1,0 +1,135 @@
+Nesta manhã , José construiu um castelo de areia na praia , e colocou um soldado de brinquedo na torre mais alta , mas nesta tarde o vento derrubou [MASK] .
+[MASK]
+castelo de areia,soldado
+soldado
+
+Daniel ficou no banco de trás enquanto que André ganhou a frente porque [MASK] `` Eu primeiro ! '' foi mais rápido .
+[MASK]
+André,Daniel
+André
+
+Eu vi o Guilherme gritando com um cara que vestia uma farda e tinha uma grande barba ruiva . Eu não sei quem [MASK] era , mas ele parecia muito chateado .
+[MASK]
+Guilherme,cara que vestia uma farda
+cara que vestia uma farda
+
+Olhe ! Há um tubarão nadando bem debaixo daquele pato ! É melhor [MASK] fugir para um lugar seguro rápido !
+[MASK]
+pato,tubarão
+pato
+
+Há uma fenda na parede . É possível enxergar o jardim através [MASK] .
+[MASK]
+parede,fenda
+fenda
+
+Daniel fez André parar de brincar com o pássaro machucado . [MASK] é muito compassivo .
+[MASK]
+Daniel,André
+Daniel
+
+Eu usei um pano velho para limpar o alicate , e então joguei [MASK] no lixo .
+[MASK]
+alicate,pano
+pano
+
+A escultura caiu da prateleira porque [MASK] não estava bem nivelada .
+[MASK]
+prateleira,escultura
+prateleira
+
+Daniel fez André parar de brincar com o pássaro machucado . [MASK] é muito cruel .
+[MASK]
+Daniel,André
+André
+
+Carol acreditava que Rebeca suspeitava que [MASK] tinha roubado o relógio .
+[MASK]
+Carol,Rebeca
+Carol
+
+Fernando visitou o túmulo de Leonardo em 1765 . Naquela data fazia cinco anos que [MASK] estava viajando .
+[MASK]
+Leonardo,Fernando
+Fernando
+
+O homem levantou o menino sobre [MASK] cabeça .
+[MASK]
+homem,menino
+homem
+
+Eu não consigo cortar aquela árvore com essa serra ; [MASK] é muito pequena .
+[MASK]
+árvore,serra
+serra
+
+Fernando visitou o túmulo de Leonardo em 1765 . Naquela data fazia cinco anos que [MASK] estava morto .
+[MASK]
+Leonardo,Fernando
+Leonardo
+
+O gato estava deitado próximo ao buraco esperando pelo rato , mas [MASK] era muito cauteloso
+[MASK]
+gato,rato
+rato
+
+A mesa não vai passar pela porta de entrada porque [MASK] é muito larga .
+[MASK]
+mesa,porta de entrada
+mesa
+
+Jéssica certificou-se de agradecer Vanessa por toda ajuda que [MASK] havia oferecido .
+[MASK]
+Jéssica,Vanessa
+Vanessa
+
+Bruno custeou o ensino superior de Fabio , mas agora Fabio age como se isso nunca tivesse acontecido . [MASK] está muito magoado .
+[MASK]
+Bruno,Fabio
+Bruno
+
+Os policiais prenderam todos os membros da gangue . [MASK] estavam tentando acabar com o tráfico de drogas na vizinhança .
+[MASK]
+membros da gangue,policiais
+policiais
+
+Gabriela bateu à porta , e Vanessa atendeu . [MASK] convidou-a para sair .
+[MASK]
+Gabriela,Vanessa
+Gabriela
+
+Carol acreditava que Rebeca lamentava que [MASK] tinha roubado o relógio .
+[MASK]
+Carol,Rebeca
+Rebeca
+
+Os bombeiros chegaram depois dos policiais porque [MASK] estavam vindo de muito longe .
+[MASK]
+bombeiros,policiais
+bombeiros
+
+André passou o gameboy para João porque [MASK] vez tinha acabado .
+[MASK]
+João,André
+André
+
+O saco de batatas havia sido colocado em cima do saco de farinha , portanto [MASK] tinha que ser retirado antes .
+[MASK]
+saco de batatas,saco de farinha
+saco de batatas
+
+Francisco é a única pessoa que ainda lembra do meu bisavô . [MASK] é um homem memorável .
+[MASK]
+meu bisavô,Francisco
+Francisco
+
+João estava fazendo uma pesquisa na biblioteca quando ouviu um homem cantarolando e assoviando . [MASK] ficou muito incomodado .
+[MASK]
+João,homem
+João
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela escreve [MASK] quando chega do trabalho .
+[MASK]
+livro,artigo
+artigo
+

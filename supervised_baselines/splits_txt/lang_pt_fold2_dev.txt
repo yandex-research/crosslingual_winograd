@@ -1,0 +1,135 @@
+Maria pegou sua flauta e tocou uma de suas peças favoritas . Ela ama [MASK] desde criança .
+[MASK]
+flauta,peças
+peças
+
+Beatriz conversou com Daniela , tirando [MASK] concentração .
+[MASK]
+Daniela,Beatriz
+Daniela
+
+João prometeu a André que iria embora , então uma hora mais tarde [MASK] partiu .
+[MASK]
+André,João
+João
+
+A grande bola atravessou a mesa pois [MASK] era feita de aço .
+[MASK]
+grande bola,mesa
+grande bola
+
+Bruna não ficou brava com Marcia , que havia a deixado de fora , porque [MASK] parou e pediu desculpas .
+[MASK]
+Bruna,Marcia
+Marcia
+
+Bruno colapsou na calçada . Logo ele viu Carlos vindo acudi-lo . [MASK] estava muito preocupado .
+[MASK]
+Carlos,Bruno
+Carlos
+
+Gabriela bateu à porta de Vanessa mas [MASK] não atendeu .
+[MASK]
+Gabriela,Vanessa
+Vanessa
+
+Aline procurou por sua amiga Flavia na multidão . Dado que [MASK] sempre usa um turbante vermelho , Aline a encontrou rapidamente .
+[MASK]
+Flavia,Aline
+Flavia
+
+O nome da atriz costumava ser Terpsichore , mas ela o mudou para Tina há alguns anos , porque percebeu que [MASK] era muito difícil de pronunciar .
+[MASK]
+Tina,Terpsichore
+Terpsichore
+
+A gente havia planejado colocar cópias da nossa newsletter sobre todas as cadeiras no auditório , mas havia muitas [MASK] .
+[MASK]
+cadeiras,newsletter
+cadeiras
+
+A biografia de Samuel Goodman sobre o general espartano Xenophanes comunica vividamente as dificuldades que [MASK] enfrentou em sua pesquisa .
+[MASK]
+Xenophanes,Goodman
+Goodman
+
+Samuel quebrou ambas as pernas e agora ele está andando com muletas . Mas em aproximadamente um mês [MASK] devem estar melhores .
+[MASK]
+pernas,muletas
+pernas
+
+Jackson sofreu forte influência de Arnold , mesmo [MASK] tendo vivido dois séculos mais tarde .
+[MASK]
+Arnold,Jackson
+Jackson
+
+Guilherme acalmou Luiz porque [MASK] estava muito transtornado .
+[MASK]
+Luiz,Guilherme
+Luiz
+
+Sara pegou um livro emprestado da biblioteca porque ela precisa dele para um artigo no qual ela está trabalhando . Ela escreve [MASK] quando chega do trabalho .
+[MASK]
+livro,artigo
+artigo
+
+As raposas estão entrando à noite e atacando as galinhas . Eu terei que proteger [MASK] .
+[MASK]
+galinhas,raposas
+galinhas
+
+Enquanto Francisca passava sobre Vanessa no pequeno avião , [MASK] podia ver a pista de aterrissagem .
+[MASK]
+Vanessa,Francisca
+Francisca
+
+O desenho do Samuel estava pendurado imediatamente acima do da Tina e [MASK] de fato ficava muito melhor com outro abaixo dele .
+[MASK]
+desenho do Samuel,da Tina
+desenho do Samuel
+
+Nesta manhã , José construiu um castelo de areia na praia , e colocou um soldado de brinquedo na torre mais alta , mas nesta tarde a maré derrubou [MASK] .
+[MASK]
+soldado,castelo de areia
+castelo de areia
+
+Bruno custeou o ensino superior de Fabio , mas agora Fabio age como se isso nunca tivesse acontecido . [MASK] é muito ingrato .
+[MASK]
+Fabio,Bruno
+Fabio
+
+Em julho , Kamtchatka declarou guerra contra Yakutsk . Dado que o exército de Yakutsk era muito melhor equipado e dez vezes maior , [MASK] foram vitoriosos em semanas .
+[MASK]
+Kamtchatka,Yakutsk
+Yakutsk
+
+Vinícius deu uma carona até a escola para Rafael , assim [MASK] não teve que dirigir sozinho .
+[MASK]
+Vinícius,Rafael
+Vinícius
+
+A medalha não cabe na maleta porque [MASK] é muito pequena .
+[MASK]
+medalha,maleta
+maleta
+
+Vanessa sabia que o filho de Adriana havia se envolvido em um acidente de carro , porque [MASK] contou pra ela a respeito .
+[MASK]
+Adriana,Vanessa
+Adriana
+
+Eu servi o refrigerante no copo até que [MASK] ficasse cheio .
+[MASK]
+refrigerante,copo
+copo
+
+Quando os apoiadores do projeto de lei chegaram à prefeitura , foram surpreendidos ao encontrarem a sala repleta de opositores . [MASK] estavam em vasta minoria .
+[MASK]
+apoiadores,opositores
+apoiadores
+
+Marcos contou muitas mentiras sobre ele mesmo para o Pedro , e Pedro incluiu elas no seu livro . [MASK] deveria ter sido mais sincero .
+[MASK]
+Pedro,Marcos
+Marcos
+

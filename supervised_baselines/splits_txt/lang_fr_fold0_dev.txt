@@ -1,0 +1,45 @@
+Anne a demandé à Marie les horaires de fermeture de la bibliothèque , mais [MASK] les avait oubliés .
+[MASK]
+Anne,Marie
+Marie
+
+La coupe n'entre pas dans la valise marron , car [MASK] est trop grande .
+[MASK]
+La coupe,la valise
+La coupe
+
+Fred et Alice ont des manteaux très chauds , mais [MASK] ne sont pas suffisants pour l'hiver en Alaska .
+[MASK]
+Fred et Alice,manteaux
+manteaux
+
+L'homme a porté le garçon sur [MASK] dos .
+[MASK]
+L'homme,garçon
+L'homme
+
+Il y a trop de cerfs dans le parc , et les gardes forestiers ont introduit une petite meute de loups . [MASK] population devrait rapidement augmenter .
+[MASK]
+cerfs,loups
+loups
+
+Simon a pris des cours de français avec Adam , car [MASK] voulait parler français couramment .
+[MASK]
+Simon,Adam
+Simon
+
+Sylvie est au courant de tous les problèmes personnels de Marie car [MASK] est curieuse .
+[MASK]
+Marie,Sylvie
+Sylvie
+
+Jean a promis à Benoît de partir , et [MASK] est parti au bout d'une heure .
+[MASK]
+Jean,Benoît
+Jean
+
+Joël a payé le détective quand [MASK] a reçu le rapport final sur l'affaire .
+[MASK]
+le détective,Joël
+Joël
+

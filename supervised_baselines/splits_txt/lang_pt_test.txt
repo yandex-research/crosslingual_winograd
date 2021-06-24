@@ -1,0 +1,135 @@
+Nós fomos para a lagoa , porque um tubarão havia sido avistado na praia , então [MASK] era um lugar perigoso para nadar .
+[MASK]
+lagoa,praia
+praia
+
+Guilherme fez um sinal para o barman e apontou para [MASK] taça vazia .
+[MASK]
+Guilherme,barman
+Guilherme
+
+Gustavo pediu um favor ao Roberto mas [MASK] teve seu pedido recusado .
+[MASK]
+Roberto,Gustavo
+Gustavo
+
+O advogado fez uma pergunta ao acusado , mas [MASK] estava relutante em repeti-la .
+[MASK]
+advogado,acusado
+advogado
+
+Francisco deveria ter ligado a máquina de lavar louça , mas ele adiou , porque queria assistir TV . Por fim o programa estava chato , então ele mudou de ideia e ligou [MASK] .
+[MASK]
+TV,máquina de lavar
+máquina de lavar
+
+Eu pus a torta na geladeira . [MASK] tem muita manteiga .
+[MASK]
+torta,geladeira
+torta
+
+Há uma fenda na parede . É possível enxergar o jardim atrás [MASK] .
+[MASK]
+fenda,parede
+parede
+
+Este livro introduziu Shakespeare a Ovídio ; ele foi uma grande influência em [MASK] escrita .
+[MASK]
+Shakespeare,Ovídio
+Shakespeare
+
+A luz do sol estava impedida por uma grande nuvem a manhã toda , mas por sorte , na hora em que o piquenique começou , [MASK] voltou .
+[MASK]
+nuvem,luz do sol
+luz do sol
+
+Francisco é a única pessoa viva que lembra de meu pai enquanto bebê . Quando Francisco viu meu pai pela primeira vez , [MASK] tinha doze meses de idade .
+[MASK]
+meu pai,Francisco
+meu pai
+
+Jorge pagou o detetive após [MASK] ter recebido o relatório final sobre o caso .
+[MASK]
+detetive,Jorge
+Jorge
+
+Francisco é a única pessoa viva que lembra de meu pai enquanto bebê . Quando Francisco viu meu pai pela primeira vez , [MASK] tinha doze anos de idade .
+[MASK]
+Francisco,meu pai
+Francisco
+
+Fernanda não passou a bola para Juliana apesar de [MASK] ter visto que ela estava livre .
+[MASK]
+Juliana,Fernanda
+Fernanda
+
+O saco de batatas havia sido colocado embaixo do saco de farinha , portanto [MASK] tinha que ser retirado antes .
+[MASK]
+saco de farinha,saco de batatas
+saco de farinha
+
+Enquanto Francisca passava sobre Vanessa no pequeno avião , [MASK] podia ver o trem de pouso .
+[MASK]
+Francisca,Vanessa
+Vanessa
+
+Eu usei um pano velho para limpar o alicate , e então coloquei [MASK] na gaveta .
+[MASK]
+alicate,pano
+alicate
+
+Meu compromisso começava às 4:00 e eu precisava pegar o trem às 4:30 , portanto não havia muito tempo . Felizmente , [MASK] atrasou , então tudo deu certo .
+[MASK]
+Meu compromisso,trem
+trem
+
+Samuel puxou um banco para o piano , mas [MASK] estava quebrado , então ele teve que ficar em pé .
+[MASK]
+banco,piano
+banco
+
+O caminho até o lago estava interditado , então nós não podíamos usar [MASK] .
+[MASK]
+lago,caminho
+caminho
+
+Eu não estava encontrando uma colher , então eu tentei usar um lápis para mexer meu café . Mas por fim isso foi uma má ideia , porque [MASK] ficou cheio de café .
+[MASK]
+lápis,café
+lápis
+
+Quando Vitor derrubou seu sorvete , Tiago gargalhou , então seu pai olhou [MASK] com olhar empático .
+[MASK]
+Tiago,Vitor
+Vitor
+
+Francisco e Aline tinham casacos muito quentes , mas [MASK] não estavam preparados para o frio do Alasca .
+[MASK]
+Francisco e Aline,casacos
+Francisco e Aline
+
+O homem levantou o menino até [MASK] beliche .
+[MASK]
+homem,menino
+menino
+
+Paulo tentou ligar para o Gabriel , mas [MASK] não estava disponível .
+[MASK]
+Gabriel,Paulo
+Gabriel
+
+O caminho até o lago estava interditado , então nós não podíamos alcançar [MASK] .
+[MASK]
+caminho,lago
+lago
+
+Arqueologistas concluíram que humanos viveram em Laputa 20.000 anos atrás . [MASK] caçavam veados às margens do rio .
+[MASK]
+humanos,Arqueologistas
+humanos
+
+Muitas pessoas começam a ler as crônicas do Paulo e não conseguem largar elas . [MASK] ficam apegadas porque Paulo escreve muito bem .
+[MASK]
+crônicas do Paulo,pessoas
+pessoas
+

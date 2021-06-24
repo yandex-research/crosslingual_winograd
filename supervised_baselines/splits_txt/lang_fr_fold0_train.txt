@@ -1,0 +1,325 @@
+Le rendez-vous n ' a commencé qu ' à 16:00 et mon train était à 16:30 donc j'étais pressé . Heureusement , [MASK] a été retardé .
+[MASK]
+Le rendez-vous,mon train
+mon train
+
+La coupe n'entre pas dans la valise marron , car [MASK] est trop petite .
+[MASK]
+la valise,La coupe
+la valise
+
+La police a arrêté tous les membres d'un gang . [MASK] essayaient de stopper un trafic de drogue dans le quartier .
+[MASK]
+gang,La police
+La police
+
+Le chien courait après un chat qui a alors grimpé dans un arbre . [MASK] est resté en bas toute la nuit .
+[MASK]
+Le chien,chat
+Le chien
+
+La sculpture est tombée de l'étagère car [MASK] était trop encombrée .
+[MASK]
+La sculpture,l'étagère
+l'étagère
+
+La femme a tenu la fille contre [MASK] poitrine .
+[MASK]
+La femme,la fille
+La femme
+
+Claire a remercié Suzanne pour tous les efforts qu'elle [MASK] a demandés .
+[MASK]
+Suzanne,Claire
+Claire
+
+En juillet , le Kamchatka a déclaré la guerre à Yakoutsk . Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka , [MASK] ont perdu en quelques semaines .
+[MASK]
+le Kamchatka,Yakoutsk
+le Kamchatka
+
+Joël a payé le détective quand [MASK] a livré le rapport final sur l'affaire .
+[MASK]
+Joël,le détective
+le détective
+
+J'ai mis la clé dans la serrure , mais [MASK] était bouchée avec du chewing-gum , je n'ai pas pu l ' ouvrir .
+[MASK]
+la serrure,la clé
+la serrure
+
+Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa [MASK] y a 20 000 ans . Ils cherchaient des indices sur les berges de la rivière .
+[MASK]
+hommes préhistoriques,Les archéologues
+Les archéologues
+
+Claire a frappé à la porte de Sylvie , mais [MASK] n ' a pas répondu .
+[MASK]
+Sylvie,Claire
+Sylvie
+
+Pierre jouait aux cartes avec Adam qui menait au score . Si la chance d'Adam n'avait pas tourné [MASK] aurait gagné .
+[MASK]
+Pierre,Adam
+Adam
+
+Samuel et Amélie sont passionnément amoureux mais les parents d'Amélie sont contre cette relation car [MASK] sont jeunes .
+[MASK]
+Samuel et Amélie,les parents d'Amélie
+Samuel et Amélie
+
+J'ai mis la clé dans la serrure , mais [MASK] était bouchée avec du chewing-gum , je n'ai pas pu l ' extirper .
+[MASK]
+la serrure,la clé
+la clé
+
+Gabrielle est contente d'avoir échangé [MASK] pull contre mon gilet . Elle pense qu'il est très démodé .
+[MASK]
+pull,gilet
+pull
+
+Claire a remercié Suzanne pour tous les efforts qu'elle [MASK] a consacrés .
+[MASK]
+Claire,Suzanne
+Suzanne
+
+Fred regardait la télé quand Georges est parti faire les courses . Une heure après [MASK] est revenu .
+[MASK]
+Georges,Fred
+Georges
+
+Le rendez-vous n ' a commencé qu ' à 16:00 et mon train était à 16:30 donc j'étais pressé . Heureusement , [MASK] a été de courte durée .
+[MASK]
+mon train,Le rendez-vous
+Le rendez-vous
+
+En juillet , le Kamchatka a déclaré la guerre à Yakoutsk . Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka , [MASK] ont gagné en quelques semaines .
+[MASK]
+Yakoutsk,le Kamchatka
+Yakoutsk
+
+Pierre envie Martin car [MASK] est bien plus brillant .
+[MASK]
+Pierre,Martin
+Martin
+
+Je suis sûre que ce monument est dans mon guide , [MASK] est complet .
+[MASK]
+guide,monument
+guide
+
+Sylvie est au courant de tous les problèmes personnels de Marie car [MASK] est bavarde .
+[MASK]
+Sylvie,Marie
+Marie
+
+La pluie a commencé à tomber au début d'une séance de yoga en plein air et [MASK] a continué jusqu ' à vingt-deux heures .
+[MASK]
+La pluie,séance
+La pluie
+
+Le tableau dans le salon de Mark représente un arbre . [MASK] est placé à droite d'une maison .
+[MASK]
+Le tableau,arbre
+arbre
+
+François s'est fâché contre Thomas , car le grille-pain qu'il [MASK] a vendu ne marche pas .
+[MASK]
+Thomas,François
+Thomas
+
+L'éponge de Paul va abîmer la carafe : [MASK] est en cristal .
+[MASK]
+L'éponge,la carafe
+la carafe
+
+La femme a tenu la fille contre [MASK] volonté .
+[MASK]
+la fille,La femme
+la fille
+
+Les scientifiques étudient trois espèces de poissons trouvées récemment dans l'océan indien . Ils ont commencé [MASK] y a deux ans .
+[MASK]
+poissons,Les scientifiques
+Les scientifiques
+
+Le scooter a dépassé le bus scolaire , car [MASK] roulait trop lentement .
+[MASK]
+le bus scolaire,Le scooter
+le bus scolaire
+
+Le scooter a dépassé le bus scolaire , car [MASK] roulait trop vite .
+[MASK]
+le bus scolaire,Le scooter
+Le scooter
+
+Jérémy s'est emporté contre Kevin , car [MASK] était très contrarié .
+[MASK]
+Jérémy,Kevin
+Jérémy
+
+Si l'escroc avait réussi à tromper Samuel , [MASK] aurait pu perdre beaucoup d'argent .
+[MASK]
+l'escroc,Samuel
+Samuel
+
+Simon a pris des cours de français avec Adam , car [MASK] savait parler français couramment .
+[MASK]
+Adam,Simon
+Adam
+
+L'éponge de Paul va abîmer la carafe : [MASK] est en fer .
+[MASK]
+la carafe,L'éponge
+L'éponge
+
+Je ne peux pas couper la planche avec cette scie , [MASK] est trop petite .
+[MASK]
+scie,la planche
+scie
+
+Fred et Alice ont des manteaux très chauds , mais [MASK] ne sont pas préparés pour l'hiver en Alaska .
+[MASK]
+manteaux,Fred et Alice
+Fred et Alice
+
+Dupont a visité la tombe de Dubois en 1765 . A cette date [MASK] était sur la route depuis cinq ans .
+[MASK]
+Dupont,Dubois
+Dupont
+
+La pluie a commencé à tomber au début d'une séance de yoga en plein air mais [MASK] a continué jusqu ' à vingt-deux heures .
+[MASK]
+La pluie,séance
+séance
+
+Boris a fait un malaise sur le trottoir et Carlo s'est approché pour l'aider . [MASK] était très faible .
+[MASK]
+Boris,Carlo
+Boris
+
+Il y a trop de cerfs dans le parc , et les gardes forestiers ont introduit une petite meute de loups . [MASK] population devrait rapidement diminuer .
+[MASK]
+loups,cerfs
+cerfs
+
+Gabrielle est contente d'avoir échangé [MASK] pull contre mon gilet . Elle pense qu'il est très beau .
+[MASK]
+gilet,pull
+gilet
+
+Le braqueur est entré dans la banque et a poignardé un des guichetiers . [MASK] a été condamné presque immédiatement .
+[MASK]
+guichetiers,Le braqueur
+Le braqueur
+
+Dupont a visité la tombe de Dubois en 1765 . A cette date [MASK] était mort depuis cinq ans .
+[MASK]
+Dubois,Dupont
+Dubois
+
+Pierre et Marc sont poursuivis pour diffamation . Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés . [MASK] aurait dû être plus prudent .
+[MASK]
+Pierre,Marc
+Marc
+
+François s'est fâché contre Thomas , car le grille-pain qu'il [MASK] a acheté ne marche pas .
+[MASK]
+François,Thomas
+François
+
+Anne a demandé à Marie les horaires de fermeture de la bibliothèque , car [MASK] les avait oubliés .
+[MASK]
+Marie,Anne
+Anne
+
+Jean a embauché Benoît pour s'occuper de [MASK] .
+[MASK]
+Benoît,Jean
+Benoît
+
+Le sac de pommes de terre est en-dessous du sac de farine , donc [MASK] faudra le déplacer en premier .
+[MASK]
+Le sac de pommes de terre,sac de farine
+sac de farine
+
+Le tableau dans le salon de Mark représente un arbre . [MASK] est placé à droite de la bibliothèque .
+[MASK]
+Le tableau,arbre
+Le tableau
+
+Pierre et Marc sont poursuivis pour diffamation . Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés . [MASK] aurait dû être plus honnête .
+[MASK]
+Marc,Pierre
+Pierre
+
+L'homme a porté le garçon sur [MASK] lit .
+[MASK]
+garçon,L'homme
+garçon
+
+Benoît a passé la gameboy à Jean car c'était [MASK] tour .
+[MASK]
+Benoît,Jean
+Jean
+
+Je ne peux pas couper la planche avec cette scie , [MASK] est trop épaisse .
+[MASK]
+la planche,scie
+la planche
+
+Le sac de pommes de terre est au-dessus du sac de farine , donc [MASK] faudra le déplacer en premier .
+[MASK]
+sac de farine,Le sac de pommes de terre
+Le sac de pommes de terre
+
+Jean a ordonné à Benoît de partir , et [MASK] est parti au bout d'une heure .
+[MASK]
+Benoît,Jean
+Benoît
+
+Thomas a dit `` échec '' à Raphaël et a déplacé [MASK] fou .
+[MASK]
+Raphaël,Thomas
+Thomas
+
+Thomas a dit `` échec '' à Raphaël et a capturé [MASK] fou .
+[MASK]
+Raphaël,Thomas
+Raphaël
+
+Pierre jouait aux cartes avec Adam qui menait au score . Si la chance d'Adam n'avait pas tourné [MASK] aurait perdu .
+[MASK]
+Adam,Pierre
+Pierre
+
+Samuel et Amélie sont passionnément amoureux mais les parents d'Amélie sont contre cette relation car [MASK] sont snobs .
+[MASK]
+les parents d'Amélie,Samuel et Amélie
+les parents d'Amélie
+
+Jérémy a pris soin de Kevin , car [MASK] était très contrarié .
+[MASK]
+Jérémy,Kevin
+Kevin
+
+La police a arrêté tous les membres d'un gang . [MASK] essayaient d'organiser un trafic de drogue dans le quartier .
+[MASK]
+gang,La police
+gang
+
+Fred regardait la télé quand Georges est parti faire les courses . Une heure après [MASK] s'est levé .
+[MASK]
+Georges,Fred
+Fred
+
+Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa [MASK] y a 20 000 ans . Ils cherchaient du gibier sur les berges de la rivière .
+[MASK]
+hommes préhistoriques,Les archéologues
+hommes préhistoriques
+
+Je suis sûre que ce monument est dans mon guide , [MASK] est incontournable .
+[MASK]
+guide,monument
+monument
+

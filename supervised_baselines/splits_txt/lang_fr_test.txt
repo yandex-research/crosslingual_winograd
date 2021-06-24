@@ -1,0 +1,45 @@
+Benoît a passé la gameboy à Jean car ce n'était pas [MASK] tour .
+[MASK]
+Jean,Benoît
+Benoît
+
+Le chien courait après un chat qui a alors grimpé dans un arbre . [MASK] est resté en haut toute la nuit .
+[MASK]
+chat,Le chien
+chat
+
+Pierre envie Martin même si [MASK] est bien plus brillant .
+[MASK]
+Martin,Pierre
+Pierre
+
+Les scientifiques étudient trois espèces de poissons trouvées récemment dans l'océan indien . Ils sont apparus [MASK] y a deux ans .
+[MASK]
+poissons,Les scientifiques
+poissons
+
+Jean s'est mis au service de Benoît pour s'occuper de [MASK] .
+[MASK]
+Benoît,Jean
+Jean
+
+La sculpture est tombée de l'étagère car [MASK] était trop lourde .
+[MASK]
+La sculpture,l'étagère
+La sculpture
+
+Si l'escroc avait réussi à tromper Samuel , [MASK] aurait pu gagner beaucoup d'argent .
+[MASK]
+Samuel,l'escroc
+l'escroc
+
+Boris a fait un malaise sur le trottoir et Carlo s'est approché pour l'aider . [MASK] était très inquiet .
+[MASK]
+Carlo,Boris
+Carlo
+
+Claire a frappé à la porte de Sylvie , mais [MASK] n ' a pas eu de réponse .
+[MASK]
+Sylvie,Claire
+Claire
+

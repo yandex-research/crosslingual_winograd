@@ -1,0 +1,45 @@
+Si l'escroc avait réussi à tromper Samuel , [MASK] aurait pu perdre beaucoup d'argent .
+[MASK]
+l'escroc,Samuel
+Samuel
+
+Gabrielle est contente d'avoir échangé [MASK] pull contre mon gilet . Elle pense qu'il est très démodé .
+[MASK]
+pull,gilet
+pull
+
+Le tableau dans le salon de Mark représente un arbre . [MASK] est placé à droite d'une maison .
+[MASK]
+Le tableau,arbre
+arbre
+
+Jérémy a pris soin de Kevin , car [MASK] était très contrarié .
+[MASK]
+Kevin,Jérémy
+Kevin
+
+La coupe n'entre pas dans la valise marron , car [MASK] est trop grande .
+[MASK]
+la valise,La coupe
+La coupe
+
+Simon a pris des cours de français avec Adam , car [MASK] voulait parler français couramment .
+[MASK]
+Simon,Adam
+Simon
+
+Le chien courait après un chat qui a alors grimpé dans un arbre . [MASK] est resté en bas toute la nuit .
+[MASK]
+chat,Le chien
+Le chien
+
+La femme a tenu la fille contre [MASK] poitrine .
+[MASK]
+La femme,la fille
+La femme
+
+Joël a payé le détective quand [MASK] a reçu le rapport final sur l'affaire .
+[MASK]
+le détective,Joël
+Joël
+
